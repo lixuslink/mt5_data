@@ -1,5 +1,7 @@
 {
-  "timestamp": "2025-05-31T18:51:54.361234",
+  "timestamp": "2025-05-31T19:13:22.964352",
+  "timeframe": "H4",
+  "data_type": "Technical Indicators Data (Raw)",
   "account": {
     "login": 928970,
     "server": "VTMarkets-Demo",
@@ -7,21 +9,223 @@
     "currency": "USD",
     "company": "VT Markets (Pty) Ltd"
   },
+  "indicators_config": {
+    "EMA_FAST": 20,
+    "EMA_MEDIUM": 50,
+    "EMA_SLOW": 200,
+    "MACD_FAST": 12,
+    "MACD_SLOW": 26,
+    "MACD_SIGNAL": 9,
+    "RSI_PERIOD": 14,
+    "ATR_PERIOD": 14
+  },
   "symbols": {
-    "EURUSD-ECN": {
-      "symbol": "EURUSD-ECN",
-      "timestamp": "2025-05-31T18:51:54.361329",
-      "bid": 1.1347,
-      "ask": 1.13485,
-      "last": 0.0,
-      "volume": 0,
-      "spread": 0.00014999999999987246,
-      "digits": 5,
-      "point": 1e-05,
-      "currency_base": "EUR",
-      "currency_profit": "USD",
-      "trade_mode": 4
+    "EURUSD": {
+      "symbol": "EURUSD",
+      "timestamp": "2025-05-31T19:13:22.966254",
+      "timeframe": "H4",
+      "current_tick": {
+        "bid": 1.13464,
+        "ask": 1.13491,
+        "last": 0.0,
+        "volume": 0,
+        "spread": 0.00026999999999999247
+      },
+      "symbol_info": {
+        "digits": 5,
+        "point": 1e-05,
+        "currency_base": "EUR",
+        "currency_profit": "USD"
+      },
+      "technical_indicators": {
+        "ema_20": 1.1334020602602155,
+        "ema_50": 1.1318659923691123,
+        "ema_200": 1.124591763047213,
+        "macd": {
+          "macd_line": 0.00057922730857074,
+          "signal_line": 0.000262060591970621,
+          "histogram": 0.000317166716600119
+        },
+        "rsi": 53.01852847081604,
+        "atr": 0.0037108917638810092,
+        "current_price": 1.13464
+      },
+      "candles_analyzed": 427
+    },
+    "GBPUSD": {
+      "symbol": "GBPUSD",
+      "timestamp": "2025-05-31T19:13:22.969548",
+      "timeframe": "H4",
+      "current_tick": {
+        "bid": 1.34542,
+        "ask": 1.34569,
+        "last": 0.0,
+        "volume": 0,
+        "spread": 0.00026999999999999247
+      },
+      "symbol_info": {
+        "digits": 5,
+        "point": 1e-05,
+        "currency_base": "GBP",
+        "currency_profit": "USD"
+      },
+      "technical_indicators": {
+        "ema_20": 1.3480407896169264,
+        "ema_50": 1.3461147115429453,
+        "ema_200": 1.332020881243692,
+        "macd": {
+          "macd_line": -0.00048647805232637786,
+          "signal_line": -8.852145023616319e-05,
+          "histogram": -0.0003979566020902147
+        },
+        "rsi": 44.68911008620445,
+        "atr": 0.0035441273807581167,
+        "current_price": 1.34542
+      },
+      "candles_analyzed": 427
+    },
+    "USDJPY": {
+      "symbol": "USDJPY",
+      "timestamp": "2025-05-31T19:13:22.978248",
+      "timeframe": "H4",
+      "current_tick": {
+        "bid": 144.043,
+        "ask": 144.117,
+        "last": 0.0,
+        "volume": 0,
+        "spread": 0.07399999999998386
+      },
+      "symbol_info": {
+        "digits": 3,
+        "point": 0.001,
+        "currency_base": "USD",
+        "currency_profit": "JPY"
+      },
+      "technical_indicators": {
+        "ema_20": 144.14018724196907,
+        "ema_50": 144.16978479422895,
+        "ema_200": 144.70069973734329,
+        "macd": {
+          "macd_line": 0.012173646316512077,
+          "signal_line": 0.1242383454975056,
+          "histogram": -0.11206469918099353
+        },
+        "rsi": 49.062340490450026,
+        "atr": 0.5866818527427918,
+        "current_price": 144.043
+      },
+      "candles_analyzed": 427
+    },
+    "AUDUSD": {
+      "symbol": "AUDUSD",
+      "timestamp": "2025-05-31T19:13:22.980334",
+      "timeframe": "H4",
+      "current_tick": {
+        "bid": 0.64325,
+        "ask": 0.64367,
+        "last": 0.0,
+        "volume": 0,
+        "spread": 0.00041999999999997595
+      },
+      "symbol_info": {
+        "digits": 5,
+        "point": 1e-05,
+        "currency_base": "AUD",
+        "currency_profit": "USD"
+      },
+      "technical_indicators": {
+        "ema_20": 0.6436761700297216,
+        "ema_50": 0.6441243431667512,
+        "ema_200": 0.6408862077432329,
+        "macd": {
+          "macd_line": -0.0006696277057168798,
+          "signal_line": -0.0005913238018163258,
+          "histogram": -7.830390390055396e-05
+        },
+        "rsi": 47.445419681487046,
+        "atr": 0.002365524285657968,
+        "current_price": 0.64325
+      },
+      "candles_analyzed": 427
+    },
+    "USDCAD": {
+      "symbol": "USDCAD",
+      "timestamp": "2025-05-31T19:13:22.981840",
+      "timeframe": "H4",
+      "current_tick": {
+        "bid": 1.3734899999999999,
+        "ask": 1.37396,
+        "last": 0.0,
+        "volume": 0,
+        "spread": 0.0004700000000001925
+      },
+      "symbol_info": {
+        "digits": 5,
+        "point": 1e-05,
+        "currency_base": "USD",
+        "currency_profit": "CAD"
+      },
+      "technical_indicators": {
+        "ema_20": 1.3797713909578095,
+        "ema_50": 1.3819417481918306,
+        "ema_200": 1.390659615516339,
+        "macd": {
+          "macd_line": -0.0008845413646545452,
+          "signal_line": -0.00019305185001389328,
+          "histogram": -0.0006914895146406519
+        },
+        "rsi": 34.1279871526048,
+        "atr": 0.0031017723452656876,
+        "current_price": 1.3734899999999999
+      },
+      "candles_analyzed": 427
+    },
+    "NZDUSD": {
+      "symbol": "NZDUSD",
+      "timestamp": "2025-05-31T19:13:22.983669",
+      "timeframe": "H4",
+      "current_tick": {
+        "bid": 0.59628,
+        "ask": 0.59697,
+        "last": 0.0,
+        "volume": 0,
+        "spread": 0.0006899999999999684
+      },
+      "symbol_info": {
+        "digits": 5,
+        "point": 1e-05,
+        "currency_base": "NZD",
+        "currency_profit": "USD"
+      },
+      "technical_indicators": {
+        "ema_20": 0.5963993461756242,
+        "ema_50": 0.595517297482919,
+        "ema_200": 0.5913297347711163,
+        "macd": {
+          "macd_line": 0.00013341010631828798,
+          "signal_line": 0.000270188905153144,
+          "histogram": -0.000136778798834856
+        },
+        "rsi": 50.07714423949573,
+        "atr": 0.0025284253417373003,
+        "current_price": 0.59628
+      },
+      "candles_analyzed": 427
     }
+  },
+  "summary": {
+    "total_symbols": 14,
+    "successful_analysis": 6,
+    "failed_symbols": [
+      "USDCHF",
+      "EURGBP",
+      "EURJPY",
+      "GBPJPY",
+      "XAUUSD",
+      "US30",
+      "SPX500",
+      "NAS100"
+    ]
   },
   "status": "success"
 }
