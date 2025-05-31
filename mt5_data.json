@@ -1,1 +1,27 @@
-json
+{
+  "timestamp": "2025-05-31T18:51:54.361234",
+  "account": {
+    "login": 928970,
+    "server": "VTMarkets-Demo",
+    "balance": 3285.94,
+    "currency": "USD",
+    "company": "VT Markets (Pty) Ltd"
+  },
+  "symbols": {
+    "EURUSD-ECN": {
+      "symbol": "EURUSD-ECN",
+      "timestamp": "2025-05-31T18:51:54.361329",
+      "bid": 1.1347,
+      "ask": 1.13485,
+      "last": 0.0,
+      "volume": 0,
+      "spread": 0.00014999999999987246,
+      "digits": 5,
+      "point": 1e-05,
+      "currency_base": "EUR",
+      "currency_profit": "USD",
+      "trade_mode": 4
+    }
+  },
+  "status": "success"
+}
