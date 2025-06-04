@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-04T11:42:03.039790",
+  "timestamp": "2025-06-04T11:47:05.451623",
   "data_type": "Multi-Strategy Technical Analysis",
   "account": {
     "login": 11540315,
@@ -26,11 +26,11 @@
         "EURUSD": {
           "H4": {
             "symbol": "EURUSD",
-            "timestamp": "2025-06-04T11:42:03.041846",
+            "timestamp": "2025-06-04T11:47:05.454281",
             "timeframe": "H4",
             "current_tick": {
-              "bid": 1.13839,
-              "ask": 1.13852,
+              "bid": 1.13822,
+              "ask": 1.13835,
               "last": 0.0,
               "volume": 0,
               "spread": 0.00012999999999996348
@@ -61,11 +61,11 @@
         "GBPUSD": {
           "H4": {
             "symbol": "GBPUSD",
-            "timestamp": "2025-06-04T11:42:03.043806",
+            "timestamp": "2025-06-04T11:47:05.456778",
             "timeframe": "H4",
             "current_tick": {
-              "bid": 1.35213,
-              "ask": 1.35226,
+              "bid": 1.35176,
+              "ask": 1.35189,
               "last": 0.0,
               "volume": 0,
               "spread": 0.00012999999999996348
@@ -96,11 +96,11 @@
         "USDJPY": {
           "H4": {
             "symbol": "USDJPY",
-            "timestamp": "2025-06-04T11:42:03.045740",
+            "timestamp": "2025-06-04T11:47:05.459789",
             "timeframe": "H4",
             "current_tick": {
-              "bid": 144.248,
-              "ask": 144.263,
+              "bid": 144.272,
+              "ask": 144.287,
               "last": 0.0,
               "volume": 0,
               "spread": 0.01500000000001478
@@ -131,14 +131,14 @@
         "AUDUSD": {
           "H4": {
             "symbol": "AUDUSD",
-            "timestamp": "2025-06-04T11:42:03.048894",
+            "timestamp": "2025-06-04T11:47:05.468495",
             "timeframe": "H4",
             "current_tick": {
-              "bid": 0.64824,
-              "ask": 0.64838,
+              "bid": 0.64855,
+              "ask": 0.64869,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.00013999999999991797
+              "spread": 0.000140000000000029
             },
             "symbol_info": {
               "digits": 5,
@@ -166,11 +166,11 @@
         "USDCAD": {
           "H4": {
             "symbol": "USDCAD",
-            "timestamp": "2025-06-04T11:42:03.056704",
+            "timestamp": "2025-06-04T11:47:05.470911",
             "timeframe": "H4",
             "current_tick": {
-              "bid": 1.37043,
-              "ask": 1.37056,
+              "bid": 1.37052,
+              "ask": 1.37065,
               "last": 0.0,
               "volume": 0,
               "spread": 0.00012999999999996348
@@ -201,14 +201,14 @@
         "NZDUSD": {
           "H4": {
             "symbol": "NZDUSD",
-            "timestamp": "2025-06-04T11:42:03.058394",
+            "timestamp": "2025-06-04T11:47:05.472848",
             "timeframe": "H4",
             "current_tick": {
-              "bid": 0.60147,
-              "ask": 0.60161,
+              "bid": 0.60161,
+              "ask": 0.60177,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.000140000000000029
+              "spread": 0.000160000000000049
             },
             "symbol_info": {
               "digits": 5,
@@ -266,11 +266,11 @@
         "EURUSD": {
           "H1": {
             "symbol": "EURUSD",
-            "timestamp": "2025-06-04T11:42:03.066923",
+            "timestamp": "2025-06-04T11:47:05.483291",
             "timeframe": "H1",
             "current_tick": {
-              "bid": 1.13839,
-              "ask": 1.13852,
+              "bid": 1.13822,
+              "ask": 1.13835,
               "last": 0.0,
               "volume": 0,
               "spread": 0.00012999999999996348
@@ -312,11 +312,11 @@
           },
           "M15": {
             "symbol": "EURUSD",
-            "timestamp": "2025-06-04T11:42:03.094014",
+            "timestamp": "2025-06-04T11:47:05.508470",
             "timeframe": "M15",
             "current_tick": {
-              "bid": 1.13839,
-              "ask": 1.13852,
+              "bid": 1.13822,
+              "ask": 1.13835,
               "last": 0.0,
               "volume": 0,
               "spread": 0.00012999999999996348
@@ -329,30 +329,30 @@
             },
             "technical_indicators": {
               "bollinger_bands": {
-                "upper": 1.1398307200637372,
-                "middle": 1.137699500000004,
-                "lower": 1.135568279936271,
-                "width": 0.004262440127466238
+                "upper": 1.1401404074920525,
+                "middle": 1.137858000000004,
+                "lower": 1.1355755925079556,
+                "width": 0.004564814984096888
               },
               "keltner_channels": {
-                "upper": 1.1396323892622144,
-                "middle": 1.1381531057708087,
-                "lower": 1.136673822279403,
-                "width": 0.0029585669828113836
+                "upper": 1.1397708435856624,
+                "middle": 1.138318524268827,
+                "lower": 1.1368662049519915,
+                "width": 0.002904638633670853
               },
               "squeeze_analysis": {
                 "squeeze_detected": false,
-                "bb_width": 0.004262440127466238,
-                "kc_width": 0.0029585669828113836
+                "bb_width": 0.004564814984096888,
+                "kc_width": 0.002904638633670853
               },
-              "atr": 0.0007695842222361632,
+              "atr": 0.0007481853492192923,
               "macd": {
-                "macd_line": 0.00045717670736888927,
-                "signal_line": 0.00018433507297558593,
-                "histogram": 0.0002728416343933033
+                "macd_line": 0.0005351301898623984,
+                "signal_line": 0.0002544940963529484,
+                "histogram": 0.0002806360935094499
               },
-              "current_price": 1.13997,
-              "current_volume": 742.0
+              "current_price": 1.13989,
+              "current_volume": 719.0
             },
             "candles_analyzed": 6912
           }
@@ -360,11 +360,11 @@
         "GBPUSD": {
           "H1": {
             "symbol": "GBPUSD",
-            "timestamp": "2025-06-04T11:42:03.100823",
+            "timestamp": "2025-06-04T11:47:05.517837",
             "timeframe": "H1",
             "current_tick": {
-              "bid": 1.35213,
-              "ask": 1.35226,
+              "bid": 1.35176,
+              "ask": 1.35189,
               "last": 0.0,
               "volume": 0,
               "spread": 0.00012999999999996348
@@ -406,11 +406,11 @@
           },
           "M15": {
             "symbol": "GBPUSD",
-            "timestamp": "2025-06-04T11:42:03.127504",
+            "timestamp": "2025-06-04T11:47:05.542239",
             "timeframe": "M15",
             "current_tick": {
-              "bid": 1.35213,
-              "ask": 1.35226,
+              "bid": 1.35176,
+              "ask": 1.35189,
               "last": 0.0,
               "volume": 0,
               "spread": 0.00012999999999996348
@@ -423,30 +423,30 @@
             },
             "technical_indicators": {
               "bollinger_bands": {
-                "upper": 1.3541428305757381,
-                "middle": 1.3521914999999969,
-                "lower": 1.3502401694242556,
-                "width": 0.0039026611514825227
+                "upper": 1.354382874638499,
+                "middle": 1.3523089999999967,
+                "lower": 1.3502351253614944,
+                "width": 0.004147749277004564
               },
               "keltner_channels": {
-                "upper": 1.354280421865706,
-                "middle": 1.3525987973415274,
-                "lower": 1.3509171728173488,
-                "width": 0.0033632490483572752
+                "upper": 1.3543980266069708,
+                "middle": 1.352727483309001,
+                "lower": 1.3510569400110313,
+                "width": 0.0033410865959395686
               },
               "squeeze_analysis": {
                 "squeeze_detected": false,
-                "bb_width": 0.0039026611514825227,
-                "kc_width": 0.0033632490483572752
+                "bb_width": 0.004147749277004564,
+                "kc_width": 0.0033410865959395686
               },
-              "atr": 0.0008871519171315659,
+              "atr": 0.0008759267801936053,
               "macd": {
-                "macd_line": 0.00034155997297991014,
-                "signal_line": 0.00012506416236742778,
-                "histogram": 0.00021649581061248236
+                "macd_line": 0.00040407027432043385,
+                "signal_line": 0.00018086538475802898,
+                "histogram": 0.00022320488956240487
               },
-              "current_price": 1.35379,
-              "current_volume": 949.0
+              "current_price": 1.35395,
+              "current_volume": 798.0
             },
             "candles_analyzed": 6912
           }
@@ -454,11 +454,11 @@
         "USDJPY": {
           "H1": {
             "symbol": "USDJPY",
-            "timestamp": "2025-06-04T11:42:03.134289",
+            "timestamp": "2025-06-04T11:47:05.554620",
             "timeframe": "H1",
             "current_tick": {
-              "bid": 144.248,
-              "ask": 144.263,
+              "bid": 144.272,
+              "ask": 144.287,
               "last": 0.0,
               "volume": 0,
               "spread": 0.01500000000001478
@@ -500,11 +500,11 @@
           },
           "M15": {
             "symbol": "USDJPY",
-            "timestamp": "2025-06-04T11:42:03.156799",
+            "timestamp": "2025-06-04T11:47:05.577421",
             "timeframe": "M15",
             "current_tick": {
-              "bid": 144.248,
-              "ask": 144.263,
+              "bid": 144.272,
+              "ask": 144.287,
               "last": 0.0,
               "volume": 0,
               "spread": 0.01500000000001478
@@ -517,30 +517,30 @@
             },
             "technical_indicators": {
               "bollinger_bands": {
-                "upper": 144.30822199279677,
-                "middle": 144.05294999999978,
-                "lower": 143.7976780072028,
-                "width": 0.5105439855939835
+                "upper": 144.30999734094263,
+                "middle": 144.0444499999998,
+                "lower": 143.778902659057,
+                "width": 0.5310946818856337
               },
               "keltner_channels": {
-                "upper": 144.26689812481996,
-                "middle": 143.9991876973711,
-                "lower": 143.73147726992224,
-                "width": 0.5354208548977226
+                "upper": 144.2514375846503,
+                "middle": 143.98831267857386,
+                "lower": 143.72518777249743,
+                "width": 0.5262498121528552
               },
               "squeeze_analysis": {
-                "squeeze_detected": true,
-                "bb_width": 0.5105439855939835,
-                "kc_width": 0.5354208548977226
+                "squeeze_detected": false,
+                "bb_width": 0.5310946818856337,
+                "kc_width": 0.5262498121528552
               },
-              "atr": 0.13743434977709995,
+              "atr": 0.13390332479302094,
               "macd": {
-                "macd_line": -0.002527029293588612,
-                "signal_line": 0.013009864064202343,
-                "histogram": -0.015536893357790954
+                "macd_line": -0.010930485313963345,
+                "signal_line": 0.008221794188569205,
+                "histogram": -0.01915227950253255
               },
-              "current_price": 143.902,
-              "current_volume": 835.0
+              "current_price": 143.885,
+              "current_volume": 922.0
             },
             "candles_analyzed": 6912
           }
@@ -548,14 +548,14 @@
         "AUDUSD": {
           "H1": {
             "symbol": "AUDUSD",
-            "timestamp": "2025-06-04T11:42:03.163841",
+            "timestamp": "2025-06-04T11:47:05.589442",
             "timeframe": "H1",
             "current_tick": {
-              "bid": 0.64824,
-              "ask": 0.64838,
+              "bid": 0.64855,
+              "ask": 0.64869,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.00013999999999991797
+              "spread": 0.000140000000000029
             },
             "symbol_info": {
               "digits": 5,
@@ -594,14 +594,14 @@
           },
           "M15": {
             "symbol": "AUDUSD",
-            "timestamp": "2025-06-04T11:42:03.187054",
+            "timestamp": "2025-06-04T11:47:05.614016",
             "timeframe": "M15",
             "current_tick": {
-              "bid": 0.64824,
-              "ask": 0.64838,
+              "bid": 0.64855,
+              "ask": 0.64869,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.00013999999999991797
+              "spread": 0.000140000000000029
             },
             "symbol_info": {
               "digits": 5,
@@ -611,30 +611,30 @@
             },
             "technical_indicators": {
               "bollinger_bands": {
-                "upper": 0.6471808866981302,
-                "middle": 0.6461879999999993,
-                "lower": 0.6451951133018684,
-                "width": 0.001985773396261825
+                "upper": 0.6473683159834547,
+                "middle": 0.6462434999999991,
+                "lower": 0.6451186840165435,
+                "width": 0.002249631966911192
               },
               "keltner_channels": {
-                "upper": 0.6475135636018877,
-                "middle": 0.6463737877376203,
-                "lower": 0.6452340118733529,
-                "width": 0.002279551728534779
+                "upper": 0.6475803093098533,
+                "middle": 0.6464715222387993,
+                "lower": 0.6453627351677453,
+                "width": 0.002217574142107992
               },
               "squeeze_analysis": {
-                "squeeze_detected": true,
-                "bb_width": 0.001985773396261825,
-                "kc_width": 0.002279551728534779
+                "squeeze_detected": false,
+                "bb_width": 0.002249631966911192,
+                "kc_width": 0.002217574142107992
               },
-              "atr": 0.0005806063397137112,
+              "atr": 0.0005577058868770202,
               "macd": {
-                "macd_line": 0.0001649976202839909,
-                "signal_line": 3.711599430280361e-05,
-                "histogram": 0.00012788162598118729
+                "macd_line": 0.00022468134742958945,
+                "signal_line": 7.462906492816078e-05,
+                "histogram": 0.00015005228250142868
               },
-              "current_price": 0.6473,
-              "current_volume": 580.0
+              "current_price": 0.6474,
+              "current_volume": 496.0
             },
             "candles_analyzed": 6912
           }
@@ -642,11 +642,11 @@
         "USDCAD": {
           "H1": {
             "symbol": "USDCAD",
-            "timestamp": "2025-06-04T11:42:03.193600",
+            "timestamp": "2025-06-04T11:47:05.620359",
             "timeframe": "H1",
             "current_tick": {
-              "bid": 1.37043,
-              "ask": 1.37056,
+              "bid": 1.37052,
+              "ask": 1.37065,
               "last": 0.0,
               "volume": 0,
               "spread": 0.00012999999999996348
@@ -688,11 +688,11 @@
           },
           "M15": {
             "symbol": "USDCAD",
-            "timestamp": "2025-06-04T11:42:03.220474",
+            "timestamp": "2025-06-04T11:47:05.646296",
             "timeframe": "M15",
             "current_tick": {
-              "bid": 1.37043,
-              "ask": 1.37056,
+              "bid": 1.37052,
+              "ask": 1.37065,
               "last": 0.0,
               "volume": 0,
               "spread": 0.00012999999999996348
@@ -705,30 +705,30 @@
             },
             "technical_indicators": {
               "bollinger_bands": {
-                "upper": 1.3728363362130938,
-                "middle": 1.3719320000000015,
-                "lower": 1.3710276637869092,
-                "width": 0.0018086724261845433
+                "upper": 1.3729025657805176,
+                "middle": 1.3718765000000013,
+                "lower": 1.370850434219485,
+                "width": 0.0020521315610326774
               },
               "keltner_channels": {
-                "upper": 1.3728136362194288,
-                "middle": 1.3717654036268336,
-                "lower": 1.3707171710342385,
-                "width": 0.002096465185190244
+                "upper": 1.3727051861491482,
+                "middle": 1.3716753651861828,
+                "lower": 1.3706455442232175,
+                "width": 0.0020596419259306664
               },
               "squeeze_analysis": {
                 "squeeze_detected": true,
-                "bb_width": 0.0018086724261845433,
-                "kc_width": 0.002096465185190244
+                "bb_width": 0.0020521315610326774,
+                "kc_width": 0.0020596419259306664
               },
-              "atr": 0.0005370826597700045,
+              "atr": 0.0005230053269292904,
               "macd": {
-                "macd_line": -0.00010794440849570819,
-                "signal_line": 1.5161747793158754e-05,
-                "histogram": -0.00012310615628886694
+                "macd_line": -0.00016841909354936568,
+                "signal_line": -2.1554420475346135e-05,
+                "histogram": -0.00014686467307401956
               },
-              "current_price": 1.37093,
-              "current_volume": 454.0
+              "current_price": 1.37082,
+              "current_volume": 552.0
             },
             "candles_analyzed": 6912
           }
@@ -736,14 +736,14 @@
         "NZDUSD": {
           "H1": {
             "symbol": "NZDUSD",
-            "timestamp": "2025-06-04T11:42:03.228821",
+            "timestamp": "2025-06-04T11:47:05.652987",
             "timeframe": "H1",
             "current_tick": {
-              "bid": 0.60147,
-              "ask": 0.60161,
+              "bid": 0.60161,
+              "ask": 0.60177,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.000140000000000029
+              "spread": 0.000160000000000049
             },
             "symbol_info": {
               "digits": 5,
@@ -782,14 +782,14 @@
           },
           "M15": {
             "symbol": "NZDUSD",
-            "timestamp": "2025-06-04T11:42:03.262684",
+            "timestamp": "2025-06-04T11:47:05.678585",
             "timeframe": "M15",
             "current_tick": {
-              "bid": 0.60147,
-              "ask": 0.60161,
+              "bid": 0.60161,
+              "ask": 0.60177,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.000140000000000029
+              "spread": 0.000160000000000049
             },
             "symbol_info": {
               "digits": 5,
@@ -799,30 +799,30 @@
             },
             "technical_indicators": {
               "bollinger_bands": {
-                "upper": 0.6010206269569367,
-                "middle": 0.6001630000000003,
-                "lower": 0.599305373043064,
-                "width": 0.0017152539138727274
+                "upper": 0.6011963208622498,
+                "middle": 0.6002195000000003,
+                "lower": 0.5992426791377509,
+                "width": 0.0019536417244989668
               },
               "keltner_channels": {
-                "upper": 0.6013886815660614,
-                "middle": 0.6003175795516238,
-                "lower": 0.5992464775371862,
-                "width": 0.0021422040288752164
+                "upper": 0.6014699760318515,
+                "middle": 0.6004054291181358,
+                "lower": 0.5993408822044201,
+                "width": 0.0021290938274314275
               },
               "squeeze_analysis": {
                 "squeeze_detected": true,
-                "bb_width": 0.0017152539138727274,
-                "kc_width": 0.0021422040288752164
+                "bb_width": 0.0019536417244989668,
+                "kc_width": 0.0021290938274314275
               },
-              "atr": 0.0005485026746820387,
+              "atr": 0.0005428953407761768,
               "macd": {
-                "macd_line": 0.00016007722583277761,
-                "signal_line": 7.018469793336683e-05,
-                "histogram": 8.989252789941079e-05
+                "macd_line": 0.000212684861144119,
+                "signal_line": 9.868473057551726e-05,
+                "histogram": 0.00011400013056860174
               },
-              "current_price": 0.60112,
-              "current_volume": 474.0
+              "current_price": 0.60124,
+              "current_volume": 468.0
             },
             "candles_analyzed": 6912
           }
@@ -866,11 +866,11 @@
         "EURUSD": {
           "H4": {
             "symbol": "EURUSD",
-            "timestamp": "2025-06-04T11:42:03.279207",
+            "timestamp": "2025-06-04T11:47:05.685926",
             "timeframe": "H4",
             "current_tick": {
-              "bid": 1.13835,
-              "ask": 1.13848,
+              "bid": 1.13822,
+              "ask": 1.13835,
               "last": 0.0,
               "volume": 0,
               "spread": 0.00012999999999996348
@@ -912,11 +912,11 @@
           },
           "H1": {
             "symbol": "EURUSD",
-            "timestamp": "2025-06-04T11:42:03.284967",
+            "timestamp": "2025-06-04T11:47:05.691344",
             "timeframe": "H1",
             "current_tick": {
-              "bid": 1.13835,
-              "ask": 1.13848,
+              "bid": 1.13822,
+              "ask": 1.13835,
               "last": 0.0,
               "volume": 0,
               "spread": 0.00012999999999996348
@@ -960,11 +960,11 @@
         "GBPUSD": {
           "H4": {
             "symbol": "GBPUSD",
-            "timestamp": "2025-06-04T11:42:03.286908",
+            "timestamp": "2025-06-04T11:47:05.693182",
             "timeframe": "H4",
             "current_tick": {
-              "bid": 1.3521,
-              "ask": 1.35223,
+              "bid": 1.35176,
+              "ask": 1.35189,
               "last": 0.0,
               "volume": 0,
               "spread": 0.00012999999999996348
@@ -1006,11 +1006,11 @@
           },
           "H1": {
             "symbol": "GBPUSD",
-            "timestamp": "2025-06-04T11:42:03.292339",
+            "timestamp": "2025-06-04T11:47:05.698711",
             "timeframe": "H1",
             "current_tick": {
-              "bid": 1.3521,
-              "ask": 1.35223,
+              "bid": 1.35176,
+              "ask": 1.35189,
               "last": 0.0,
               "volume": 0,
               "spread": 0.00012999999999996348
@@ -1054,11 +1054,11 @@
         "USDJPY": {
           "H4": {
             "symbol": "USDJPY",
-            "timestamp": "2025-06-04T11:42:03.294868",
+            "timestamp": "2025-06-04T11:47:05.701415",
             "timeframe": "H4",
             "current_tick": {
-              "bid": 144.249,
-              "ask": 144.264,
+              "bid": 144.272,
+              "ask": 144.287,
               "last": 0.0,
               "volume": 0,
               "spread": 0.01500000000001478
@@ -1100,11 +1100,11 @@
           },
           "H1": {
             "symbol": "USDJPY",
-            "timestamp": "2025-06-04T11:42:03.301142",
+            "timestamp": "2025-06-04T11:47:05.710938",
             "timeframe": "H1",
             "current_tick": {
-              "bid": 144.249,
-              "ask": 144.264,
+              "bid": 144.272,
+              "ask": 144.287,
               "last": 0.0,
               "volume": 0,
               "spread": 0.01500000000001478
@@ -1148,14 +1148,14 @@
         "AUDUSD": {
           "H4": {
             "symbol": "AUDUSD",
-            "timestamp": "2025-06-04T11:42:03.306670",
+            "timestamp": "2025-06-04T11:47:05.713519",
             "timeframe": "H4",
             "current_tick": {
-              "bid": 0.64824,
-              "ask": 0.64838,
+              "bid": 0.64855,
+              "ask": 0.64869,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.00013999999999991797
+              "spread": 0.000140000000000029
             },
             "symbol_info": {
               "digits": 5,
@@ -1194,14 +1194,14 @@
           },
           "H1": {
             "symbol": "AUDUSD",
-            "timestamp": "2025-06-04T11:42:03.315290",
+            "timestamp": "2025-06-04T11:47:05.718741",
             "timeframe": "H1",
             "current_tick": {
-              "bid": 0.64824,
-              "ask": 0.64838,
+              "bid": 0.64855,
+              "ask": 0.64869,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.00013999999999991797
+              "spread": 0.000140000000000029
             },
             "symbol_info": {
               "digits": 5,
@@ -1242,11 +1242,11 @@
         "USDCAD": {
           "H4": {
             "symbol": "USDCAD",
-            "timestamp": "2025-06-04T11:42:03.317980",
+            "timestamp": "2025-06-04T11:47:05.720412",
             "timeframe": "H4",
             "current_tick": {
-              "bid": 1.37043,
-              "ask": 1.37056,
+              "bid": 1.37052,
+              "ask": 1.37065,
               "last": 0.0,
               "volume": 0,
               "spread": 0.00012999999999996348
@@ -1288,14 +1288,14 @@
           },
           "H1": {
             "symbol": "USDCAD",
-            "timestamp": "2025-06-04T11:42:03.326873",
+            "timestamp": "2025-06-04T11:47:05.725158",
             "timeframe": "H1",
             "current_tick": {
-              "bid": 1.3704399999999999,
-              "ask": 1.37057,
+              "bid": 1.37052,
+              "ask": 1.37065,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.00013000000000018552
+              "spread": 0.00012999999999996348
             },
             "symbol_info": {
               "digits": 5,
@@ -1336,14 +1336,14 @@
         "NZDUSD": {
           "H4": {
             "symbol": "NZDUSD",
-            "timestamp": "2025-06-04T11:42:03.338851",
+            "timestamp": "2025-06-04T11:47:05.726738",
             "timeframe": "H4",
             "current_tick": {
-              "bid": 0.60147,
-              "ask": 0.60161,
+              "bid": 0.60161,
+              "ask": 0.60177,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.000140000000000029
+              "spread": 0.000160000000000049
             },
             "symbol_info": {
               "digits": 5,
@@ -1382,14 +1382,14 @@
           },
           "H1": {
             "symbol": "NZDUSD",
-            "timestamp": "2025-06-04T11:42:03.346047",
+            "timestamp": "2025-06-04T11:47:05.732570",
             "timeframe": "H1",
             "current_tick": {
-              "bid": 0.60147,
-              "ask": 0.60161,
+              "bid": 0.60161,
+              "ask": 0.60177,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.000140000000000029
+              "spread": 0.000160000000000049
             },
             "symbol_info": {
               "digits": 5,
@@ -1464,11 +1464,11 @@
         "EURUSD": {
           "M15": {
             "symbol": "EURUSD",
-            "timestamp": "2025-06-04T11:42:03.382843",
+            "timestamp": "2025-06-04T11:47:05.765038",
             "timeframe": "M15",
             "current_tick": {
-              "bid": 1.13835,
-              "ask": 1.13848,
+              "bid": 1.13822,
+              "ask": 1.13835,
               "last": 0.0,
               "volume": 0,
               "spread": 0.00012999999999996348
@@ -1480,22 +1480,22 @@
               "currency_profit": "USD"
             },
             "technical_indicators": {
-              "ema_9": 1.1387104830119958,
-              "ema_21": 1.1381274815533935,
-              "ema_spread": 0.0005830014586023502,
-              "rsi_7": 77.07044663687964,
-              "cci_14": 116.45454545455995,
+              "ema_9": 1.1389463864095968,
+              "ema_21": 1.138287710503085,
+              "ema_spread": 0.0006586759065116965,
+              "rsi_7": 74.9634508752981,
+              "cci_14": 119.30283224400956,
               "vwap": {
-                "current_vwap": 1.137790861559472,
-                "vwap_deviation": 0.0021791384405278613,
+                "current_vwap": 1.1378502013910514,
+                "vwap_deviation": 0.002039798608948651,
                 "price_above_vwap": true,
-                "deviation_percentage": 0.19152363708925413
+                "deviation_percentage": 0.17926776358214325
               },
               "micro_trend": {
                 "direction": "BULLISH",
                 "ema_cross_signal": null,
-                "price_vs_ema9": 0.0012595169880040835,
-                "price_vs_ema21": 0.0018425184466064337
+                "price_vs_ema9": 0.0009436135904032916,
+                "price_vs_ema21": 0.0016022894969149881
               },
               "scalping_conditions": {
                 "rsi_oversold": false,
@@ -1507,18 +1507,18 @@
                 "ema_cross_signal": null
               },
               "scalping_alerts": [],
-              "current_price": 1.13997,
-              "current_volume": 742.0
+              "current_price": 1.13989,
+              "current_volume": 719.0
             },
             "candles_analyzed": 6912
           },
           "M5": {
             "symbol": "EURUSD",
-            "timestamp": "2025-06-04T11:42:03.457373",
+            "timestamp": "2025-06-04T11:47:05.830451",
             "timeframe": "M5",
             "current_tick": {
-              "bid": 1.13835,
-              "ask": 1.13848,
+              "bid": 1.13822,
+              "ask": 1.13835,
               "last": 0.0,
               "volume": 0,
               "spread": 0.00012999999999996348
@@ -1530,22 +1530,22 @@
               "currency_profit": "USD"
             },
             "technical_indicators": {
-              "ema_9": 1.1392384189187832,
-              "ema_21": 1.1387842014863425,
-              "ema_spread": 0.00045421743244067336,
-              "rsi_7": 83.30538362248858,
-              "cci_14": 174.97691597413385,
+              "ema_9": 1.1394227351350266,
+              "ema_21": 1.1389092740784932,
+              "ema_spread": 0.0005134610565333819,
+              "rsi_7": 85.37204641056904,
+              "cci_14": 179.46303458328586,
               "vwap": {
-                "current_vwap": 1.1376316156304773,
-                "vwap_deviation": 0.002338384369522606,
+                "current_vwap": 1.1376802845716043,
+                "vwap_deviation": 0.0024797154283957568,
                 "price_above_vwap": true,
-                "deviation_percentage": 0.20554846906453714
+                "deviation_percentage": 0.2179624154539602
               },
               "micro_trend": {
                 "direction": "BULLISH",
                 "ema_cross_signal": null,
-                "price_vs_ema9": 0.0007315810812167367,
-                "price_vs_ema21": 0.00118579851365741
+                "price_vs_ema9": 0.000737264864973497,
+                "price_vs_ema21": 0.0012507259215068789
               },
               "scalping_conditions": {
                 "rsi_oversold": false,
@@ -1557,8 +1557,8 @@
                 "ema_cross_signal": null
               },
               "scalping_alerts": [],
-              "current_price": 1.13997,
-              "current_volume": 247.0
+              "current_price": 1.14016,
+              "current_volume": 226.0
             },
             "candles_analyzed": 20736
           }
@@ -1566,11 +1566,11 @@
         "GBPUSD": {
           "M15": {
             "symbol": "GBPUSD",
-            "timestamp": "2025-06-04T11:42:03.488509",
+            "timestamp": "2025-06-04T11:47:05.851988",
             "timeframe": "M15",
             "current_tick": {
-              "bid": 1.3521,
-              "ask": 1.35223,
+              "bid": 1.35176,
+              "ask": 1.35189,
               "last": 0.0,
               "volume": 0,
               "spread": 0.00012999999999996348
@@ -1582,22 +1582,22 @@
               "currency_profit": "USD"
             },
             "technical_indicators": {
-              "ema_9": 1.3530210002269722,
-              "ema_21": 1.3525801306335048,
-              "ema_spread": 0.00044086959346745225,
-              "rsi_7": 67.33200646753046,
-              "cci_14": 107.94550860936064,
+              "ema_9": 1.3532068001815778,
+              "ema_21": 1.352704664212277,
+              "ema_spread": 0.0005021359693007099,
+              "rsi_7": 69.07146453762931,
+              "cci_14": 107.04279539230697,
               "vwap": {
-                "current_vwap": 1.3523979250095965,
-                "vwap_deviation": 0.0013920749904035024,
+                "current_vwap": 1.352451078174632,
+                "vwap_deviation": 0.001498921825368038,
                 "price_above_vwap": true,
-                "deviation_percentage": 0.10293383069140868
+                "deviation_percentage": 0.11083002184382847
               },
               "micro_trend": {
                 "direction": "BULLISH",
                 "ema_cross_signal": null,
-                "price_vs_ema9": 0.0007689997730278009,
-                "price_vs_ema21": 0.0012098693664952531
+                "price_vs_ema9": 0.0007431998184221911,
+                "price_vs_ema21": 0.001245335787722901
               },
               "scalping_conditions": {
                 "rsi_oversold": false,
@@ -1609,18 +1609,18 @@
                 "ema_cross_signal": null
               },
               "scalping_alerts": [],
-              "current_price": 1.35379,
-              "current_volume": 949.0
+              "current_price": 1.35395,
+              "current_volume": 798.0
             },
             "candles_analyzed": 6912
           },
           "M5": {
             "symbol": "GBPUSD",
-            "timestamp": "2025-06-04T11:42:03.579123",
+            "timestamp": "2025-06-04T11:47:05.915025",
             "timeframe": "M5",
             "current_tick": {
-              "bid": 1.3521,
-              "ask": 1.35223,
+              "bid": 1.35176,
+              "ask": 1.35189,
               "last": 0.0,
               "volume": 0,
               "spread": 0.00012999999999996348
@@ -1632,22 +1632,22 @@
               "currency_profit": "USD"
             },
             "technical_indicators": {
-              "ema_9": 1.3535201348342034,
-              "ema_21": 1.3531361209668122,
-              "ema_spread": 0.00038401386739117527,
-              "rsi_7": 59.254683022639576,
-              "cci_14": 125.74510537468805,
+              "ema_9": 1.3536601078673627,
+              "ema_21": 1.3532346554243748,
+              "ema_spread": 0.00042545244298786145,
+              "rsi_7": 65.96692677906637,
+              "cci_14": 132.92583537083672,
               "vwap": {
-                "current_vwap": 1.3521835967408489,
-                "vwap_deviation": 0.001606403259151179,
+                "current_vwap": 1.3522262454464307,
+                "vwap_deviation": 0.0019937545535693157,
                 "price_above_vwap": true,
-                "deviation_percentage": 0.11880067640393453
+                "deviation_percentage": 0.1474423795783588
               },
               "micro_trend": {
                 "direction": "BULLISH",
                 "ema_cross_signal": null,
-                "price_vs_ema9": 0.00026986516579663444,
-                "price_vs_ema21": 0.0006538790331878097
+                "price_vs_ema9": 0.0005598921326372963,
+                "price_vs_ema21": 0.0009853445756251578
               },
               "scalping_conditions": {
                 "rsi_oversold": false,
@@ -1659,8 +1659,8 @@
                 "ema_cross_signal": null
               },
               "scalping_alerts": [],
-              "current_price": 1.35379,
-              "current_volume": 360.0
+              "current_price": 1.35422,
+              "current_volume": 280.0
             },
             "candles_analyzed": 20729
           }
@@ -1668,11 +1668,11 @@
         "USDJPY": {
           "M15": {
             "symbol": "USDJPY",
-            "timestamp": "2025-06-04T11:42:03.605590",
+            "timestamp": "2025-06-04T11:47:05.937260",
             "timeframe": "M15",
             "current_tick": {
-              "bid": 144.249,
-              "ask": 144.264,
+              "bid": 144.272,
+              "ask": 144.287,
               "last": 0.0,
               "volume": 0,
               "spread": 0.01500000000001478
@@ -1684,22 +1684,22 @@
               "currency_profit": "JPY"
             },
             "technical_indicators": {
-              "ema_9": 143.98507350923956,
-              "ema_21": 143.9989309106392,
-              "ema_spread": -0.013857401399633318,
-              "rsi_7": 39.87977810555035,
-              "cci_14": -56.95681836422886,
+              "ema_9": 143.96505880739164,
+              "ema_21": 143.98857355512652,
+              "ema_spread": -0.023514747734878938,
+              "rsi_7": 38.4503074424599,
+              "cci_14": -79.80470483799034,
               "vwap": {
-                "current_vwap": 143.97538521553054,
-                "vwap_deviation": -0.07338521553054989,
+                "current_vwap": 143.97306209174553,
+                "vwap_deviation": -0.08806209174554169,
                 "price_above_vwap": false,
-                "deviation_percentage": -0.05097066795181172
+                "deviation_percentage": -0.061165672568264835
               },
               "micro_trend": {
                 "direction": "BEARISH",
                 "ema_cross_signal": null,
-                "price_vs_ema9": -0.08307350923956847,
-                "price_vs_ema21": -0.09693091063920178
+                "price_vs_ema9": -0.0800588073916515,
+                "price_vs_ema21": -0.10357355512653044
               },
               "scalping_conditions": {
                 "rsi_oversold": false,
@@ -1711,18 +1711,18 @@
                 "ema_cross_signal": null
               },
               "scalping_alerts": [],
-              "current_price": 143.902,
-              "current_volume": 835.0
+              "current_price": 143.885,
+              "current_volume": 922.0
             },
             "candles_analyzed": 6912
           },
           "M5": {
             "symbol": "USDJPY",
-            "timestamp": "2025-06-04T11:42:03.677734",
+            "timestamp": "2025-06-04T11:47:05.999785",
             "timeframe": "M5",
             "current_tick": {
-              "bid": 144.249,
-              "ask": 144.264,
+              "bid": 144.272,
+              "ask": 144.287,
               "last": 0.0,
               "volume": 0,
               "spread": 0.01500000000001478
@@ -1734,37 +1734,35 @@
               "currency_profit": "JPY"
             },
             "technical_indicators": {
-              "ema_9": 143.99116037593737,
-              "ema_21": 143.995888707231,
-              "ema_spread": -0.004728331293620158,
-              "rsi_7": 34.03904829724431,
-              "cci_14": -73.50527549822822,
+              "ema_9": 143.9743283007499,
+              "ema_21": 143.98780791566455,
+              "ema_spread": -0.01347961491464389,
+              "rsi_7": 35.16809625723735,
+              "cci_14": -106.86517783290942,
               "vwap": {
-                "current_vwap": 144.06229395355996,
-                "vwap_deviation": -0.16029395355997167,
+                "current_vwap": 144.0587828981349,
+                "vwap_deviation": -0.15178289813488277,
                 "price_above_vwap": false,
-                "deviation_percentage": -0.11126711172018693
+                "deviation_percentage": -0.10536178015762472
               },
               "micro_trend": {
                 "direction": "BEARISH",
-                "ema_cross_signal": "BEARISH_CROSS",
-                "price_vs_ema9": -0.08916037593738224,
-                "price_vs_ema21": -0.0938887072310024
+                "ema_cross_signal": null,
+                "price_vs_ema9": -0.06732830074989238,
+                "price_vs_ema21": -0.08080791566453627
               },
               "scalping_conditions": {
                 "rsi_oversold": false,
                 "rsi_overbought": false,
-                "cci_oversold": false,
+                "cci_oversold": true,
                 "cci_overbought": false,
                 "price_above_vwap": false,
                 "micro_trend_bullish": false,
-                "ema_cross_signal": "BEARISH_CROSS"
+                "ema_cross_signal": null
               },
-              "scalping_alerts": [
-                "BEARISH_CROSS_CONFIRMED"
-              ],
-              "current_price": 143.902,
-              "current_volume": 293.0
+              "scalping_alerts": [],
+              "current_price": 143.907,
+              "current_volume": 302.0
             },
             "candles_analyzed": 20734
           }
@@ -1772,14 +1770,14 @@
         "AUDUSD": {
           "M15": {
             "symbol": "AUDUSD",
-            "timestamp": "2025-06-04T11:42:03.710881",
+            "timestamp": "2025-06-04T11:47:06.021593",
             "timeframe": "M15",
             "current_tick": {
-              "bid": 0.64824,
-              "ask": 0.64838,
+              "bid": 0.64855,
+              "ask": 0.64869,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.00013999999999991797
+              "spread": 0.000140000000000029
             },
             "symbol_info": {
               "digits": 5,
@@ -1788,22 +1786,22 @@
               "currency_profit": "USD"
             },
             "technical_indicators": {
-              "ema_9": 0.6465921982177665,
-              "ema_21": 0.6463651796765888,
-              "ema_spread": 0.0002270185411776815,
-              "rsi_7": 70.04075705838292,
-              "cci_14": 149.6814127070751,
+              "ema_9": 0.6467537585742131,
+              "ema_21": 0.6464592542514443,
+              "ema_spread": 0.0002945043227687849,
+              "rsi_7": 71.42887141212478,
+              "cci_14": 152.07678384301468,
               "vwap": {
-                "current_vwap": 0.6462729646455821,
-                "vwap_deviation": 0.0010270353544178379,
+                "current_vwap": 0.646296499096152,
+                "vwap_deviation": 0.0011035009038479204,
                 "price_above_vwap": true,
-                "deviation_percentage": 0.15891665141540726
+                "deviation_percentage": 0.17074220661742254
               },
               "micro_trend": {
                 "direction": "BULLISH",
                 "ema_cross_signal": null,
-                "price_vs_ema9": 0.0007078017822335081,
-                "price_vs_ema21": 0.0009348203234111896
+                "price_vs_ema9": 0.0006462414257868421,
+                "price_vs_ema21": 0.000940745748555627
               },
               "scalping_conditions": {
                 "rsi_oversold": false,
@@ -1815,21 +1813,21 @@
                 "ema_cross_signal": null
               },
               "scalping_alerts": [],
-              "current_price": 0.6473,
-              "current_volume": 580.0
+              "current_price": 0.6474,
+              "current_volume": 496.0
             },
             "candles_analyzed": 6912
           },
           "M5": {
             "symbol": "AUDUSD",
-            "timestamp": "2025-06-04T11:42:03.775040",
+            "timestamp": "2025-06-04T11:47:06.082203",
             "timeframe": "M5",
             "current_tick": {
-              "bid": 0.64824,
-              "ask": 0.64838,
+              "bid": 0.64855,
+              "ask": 0.64869,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.00013999999999991797
+              "spread": 0.000140000000000029
             },
             "symbol_info": {
               "digits": 5,
@@ -1838,26 +1836,26 @@
               "currency_profit": "USD"
             },
             "technical_indicators": {
-              "ema_9": 0.6468937082900853,
-              "ema_21": 0.6466399851662512,
-              "ema_spread": 0.0002537231238340931,
-              "rsi_7": 78.03591116760548,
-              "cci_14": 133.38403041825129,
+              "ema_9": 0.6470009666320682,
+              "ema_21": 0.646711804696592,
+              "ema_spread": 0.00028916193547623426,
+              "rsi_7": 80.78173046565071,
+              "cci_14": 140.7928688716729,
               "vwap": {
-                "current_vwap": 0.646100521551424,
-                "vwap_deviation": 0.0011994784485760412,
+                "current_vwap": 0.646125827527642,
+                "vwap_deviation": 0.0013041724723579229,
                 "price_above_vwap": true,
-                "deviation_percentage": 0.18564889031444207
+                "deviation_percentage": 0.20184496839388902
               },
               "micro_trend": {
                 "direction": "BULLISH",
                 "ema_cross_signal": null,
-                "price_vs_ema9": 0.00040629170991468566,
-                "price_vs_ema21": 0.0006600148337487788
+                "price_vs_ema9": 0.0004290333679317637,
+                "price_vs_ema21": 0.000718195303407998
               },
               "scalping_conditions": {
                 "rsi_oversold": false,
-                "rsi_overbought": false,
+                "rsi_overbought": true,
                 "cci_oversold": false,
                 "cci_overbought": true,
                 "price_above_vwap": true,
@@ -1865,8 +1863,8 @@
                 "ema_cross_signal": null
               },
               "scalping_alerts": [],
-              "current_price": 0.6473,
-              "current_volume": 169.0
+              "current_price": 0.64743,
+              "current_volume": 176.0
             },
             "candles_analyzed": 20736
           }
@@ -1874,14 +1872,14 @@
         "USDCAD": {
           "M15": {
             "symbol": "USDCAD",
-            "timestamp": "2025-06-04T11:42:03.798090",
+            "timestamp": "2025-06-04T11:47:06.107608",
             "timeframe": "M15",
             "current_tick": {
-              "bid": 1.3704399999999999,
-              "ask": 1.37057,
+              "bid": 1.37052,
+              "ask": 1.37065,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.00013000000000018552
+              "spread": 0.00012999999999996348
             },
             "symbol_info": {
               "digits": 5,
@@ -1890,22 +1888,22 @@
               "currency_profit": "CAD"
             },
             "technical_indicators": {
-              "ema_9": 1.3715991392546805,
-              "ema_21": 1.3717701246515144,
-              "ema_spread": -0.00017098539683391145,
-              "rsi_7": 28.39308317753808,
-              "cci_14": -132.86511795424144,
+              "ema_9": 1.3714433114037443,
+              "ema_21": 1.3716837496831948,
+              "ema_spread": -0.00024043827945052776,
+              "rsi_7": 26.735888072215314,
+              "cci_14": -140.2190923317932,
               "vwap": {
-                "current_vwap": 1.371772855012507,
-                "vwap_deviation": -0.0008428550125070267,
+                "current_vwap": 1.3717484052973041,
+                "vwap_deviation": -0.0009284052973042023,
                 "price_above_vwap": false,
-                "deviation_percentage": -0.06144275339952999
+                "deviation_percentage": -0.06768043569206743
               },
               "micro_trend": {
                 "direction": "BEARISH",
                 "ema_cross_signal": null,
-                "price_vs_ema9": -0.0006691392546804842,
-                "price_vs_ema21": -0.0008401246515143956
+                "price_vs_ema9": -0.0006233114037443865,
+                "price_vs_ema21": -0.0008637496831949143
               },
               "scalping_conditions": {
                 "rsi_oversold": false,
@@ -1917,21 +1915,21 @@
                 "ema_cross_signal": null
               },
               "scalping_alerts": [],
-              "current_price": 1.37093,
-              "current_volume": 454.0
+              "current_price": 1.37082,
+              "current_volume": 552.0
             },
             "candles_analyzed": 6912
           },
           "M5": {
             "symbol": "USDCAD",
-            "timestamp": "2025-06-04T11:42:03.863723",
+            "timestamp": "2025-06-04T11:47:06.178748",
             "timeframe": "M5",
             "current_tick": {
-              "bid": 1.3704399999999999,
-              "ask": 1.37057,
+              "bid": 1.37052,
+              "ask": 1.37065,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.00013000000000018552
+              "spread": 0.00012999999999996348
             },
             "symbol_info": {
               "digits": 5,
@@ -1940,22 +1938,22 @@
               "currency_profit": "CAD"
             },
             "technical_indicators": {
-              "ema_9": 1.3713392776274087,
-              "ema_21": 1.3715815056344112,
-              "ema_spread": -0.00024222800700246516,
-              "rsi_7": 22.31104814064777,
-              "cci_14": -142.94523032293077,
+              "ema_9": 1.3712554221019269,
+              "ema_21": 1.3715213687585557,
+              "ema_spread": -0.0002659466566288238,
+              "rsi_7": 22.068942180517137,
+              "cci_14": -136.76801801796543,
               "vwap": {
-                "current_vwap": 1.3720762374623428,
-                "vwap_deviation": -0.0011462374623427696,
+                "current_vwap": 1.372055958033065,
+                "vwap_deviation": -0.0011359580330649877,
                 "price_above_vwap": false,
-                "deviation_percentage": -0.08354036248472152
+                "deviation_percentage": -0.08279239825564115
               },
               "micro_trend": {
                 "direction": "BEARISH",
                 "ema_cross_signal": null,
-                "price_vs_ema9": -0.00040927762740872176,
-                "price_vs_ema21": -0.0006515056344111869
+                "price_vs_ema9": -0.000335422101926941,
+                "price_vs_ema21": -0.0006013687585557648
               },
               "scalping_conditions": {
                 "rsi_oversold": false,
@@ -1967,8 +1965,8 @@
                 "ema_cross_signal": null
               },
               "scalping_alerts": [],
-              "current_price": 1.37093,
-              "current_volume": 173.0
+              "current_price": 1.37092,
+              "current_volume": 188.0
             },
             "candles_analyzed": 20736
           }
@@ -1976,14 +1974,14 @@
         "NZDUSD": {
           "M15": {
             "symbol": "NZDUSD",
-            "timestamp": "2025-06-04T11:42:03.885286",
+            "timestamp": "2025-06-04T11:47:06.201675",
             "timeframe": "M15",
             "current_tick": {
-              "bid": 0.60147,
-              "ask": 0.60161,
+              "bid": 0.60162,
+              "ask": 0.60178,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.000140000000000029
+              "spread": 0.00015999999999993797
             },
             "symbol_info": {
               "digits": 5,
@@ -1992,22 +1990,22 @@
               "currency_profit": "USD"
             },
             "technical_indicators": {
-              "ema_9": 0.6005071180435636,
-              "ema_21": 0.60030841924226,
-              "ema_spread": 0.0001986988013036317,
-              "rsi_7": 69.087983269714,
-              "cci_14": 131.01868170601324,
+              "ema_9": 0.6006536944348508,
+              "ema_21": 0.6003931084020545,
+              "ema_spread": 0.0002605860327963283,
+              "rsi_7": 70.96637640528752,
+              "cci_14": 156.45342312007656,
               "vwap": {
-                "current_vwap": 0.6002086762688615,
-                "vwap_deviation": 0.000911323731138447,
+                "current_vwap": 0.6002417180805486,
+                "vwap_deviation": 0.0009982819194513937,
                 "price_above_vwap": true,
-                "deviation_percentage": 0.151834481434624
+                "deviation_percentage": 0.16631331834843086
               },
               "micro_trend": {
                 "direction": "BULLISH",
                 "ema_cross_signal": null,
-                "price_vs_ema9": 0.0006128819564363841,
-                "price_vs_ema21": 0.0008115807577400158
+                "price_vs_ema9": 0.0005863055651491589,
+                "price_vs_ema21": 0.0008468915979454872
               },
               "scalping_conditions": {
                 "rsi_oversold": false,
@@ -2019,21 +2017,21 @@
                 "ema_cross_signal": null
               },
               "scalping_alerts": [],
-              "current_price": 0.60112,
-              "current_volume": 474.0
+              "current_price": 0.60124,
+              "current_volume": 468.0
             },
             "candles_analyzed": 6912
           },
           "M5": {
             "symbol": "NZDUSD",
-            "timestamp": "2025-06-04T11:42:03.961421",
+            "timestamp": "2025-06-04T11:47:06.268035",
             "timeframe": "M5",
             "current_tick": {
-              "bid": 0.60147,
-              "ask": 0.60161,
+              "bid": 0.60162,
+              "ask": 0.60178,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.000140000000000029
+              "spread": 0.00015999999999993797
             },
             "symbol_info": {
               "digits": 5,
@@ -2042,22 +2040,22 @@
               "currency_profit": "USD"
             },
             "technical_indicators": {
-              "ema_9": 0.600719039932855,
-              "ema_21": 0.6005409825558756,
-              "ema_spread": 0.00017805737697940138,
-              "rsi_7": 75.33645257477146,
-              "cci_14": 107.90903602332078,
+              "ema_9": 0.600841231946284,
+              "ema_21": 0.6006127114144324,
+              "ema_spread": 0.00022852053185162813,
+              "rsi_7": 79.84490744639842,
+              "cci_14": 136.99100148892344,
               "vwap": {
-                "current_vwap": 0.6001534340208472,
-                "vwap_deviation": 0.0009665659791527892,
+                "current_vwap": 0.6001803483633497,
+                "vwap_deviation": 0.0011496516366503728,
                 "price_above_vwap": true,
-                "deviation_percentage": 0.1610531448061687
+                "deviation_percentage": 0.19155102958392314
               },
               "micro_trend": {
                 "direction": "BULLISH",
                 "ema_cross_signal": null,
-                "price_vs_ema9": 0.000400960067144962,
-                "price_vs_ema21": 0.0005790174441243634
+                "price_vs_ema9": 0.0004887680537160044,
+                "price_vs_ema21": 0.0007172885855676325
               },
               "scalping_conditions": {
                 "rsi_oversold": false,
@@ -2069,8 +2067,8 @@
                 "ema_cross_signal": null
               },
               "scalping_alerts": [],
-              "current_price": 0.60112,
-              "current_volume": 171.0
+              "current_price": 0.60133,
+              "current_volume": 162.0
             },
             "candles_analyzed": 20736
           }
@@ -2117,14 +2115,14 @@
         "EURUSD": {
           "H4": {
             "symbol": "EURUSD",
-            "timestamp": "2025-06-04T11:42:03.969188",
+            "timestamp": "2025-06-04T11:47:06.275191",
             "timeframe": "H4",
             "current_tick": {
-              "bid": 1.13834,
-              "ask": 1.13847,
+              "bid": 1.13822,
+              "ask": 1.13835,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.00013000000000018552
+              "spread": 0.00012999999999996348
             },
             "symbol_info": {
               "digits": 5,
@@ -2317,14 +2315,14 @@
           },
           "H1": {
             "symbol": "EURUSD",
-            "timestamp": "2025-06-04T11:42:03.975686",
+            "timestamp": "2025-06-04T11:47:06.282326",
             "timeframe": "H1",
             "current_tick": {
-              "bid": 1.13834,
-              "ask": 1.13847,
+              "bid": 1.13822,
+              "ask": 1.13835,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.00013000000000018552
+              "spread": 0.00012999999999996348
             },
             "symbol_info": {
               "digits": 5,
@@ -2599,14 +2597,14 @@
         "GBPUSD": {
           "H4": {
             "symbol": "GBPUSD",
-            "timestamp": "2025-06-04T11:42:03.977877",
+            "timestamp": "2025-06-04T11:47:06.284431",
             "timeframe": "H4",
             "current_tick": {
-              "bid": 1.3520699999999999,
-              "ask": 1.3522,
+              "bid": 1.35176,
+              "ask": 1.35189,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.00013000000000018552
+              "spread": 0.00012999999999996348
             },
             "symbol_info": {
               "digits": 5,
@@ -2778,14 +2776,14 @@
           },
           "H1": {
             "symbol": "GBPUSD",
-            "timestamp": "2025-06-04T11:42:03.986240",
+            "timestamp": "2025-06-04T11:47:06.293242",
             "timeframe": "H1",
             "current_tick": {
-              "bid": 1.3520699999999999,
-              "ask": 1.3522,
+              "bid": 1.35176,
+              "ask": 1.35189,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.00013000000000018552
+              "spread": 0.00012999999999996348
             },
             "symbol_info": {
               "digits": 5,
@@ -3040,11 +3038,11 @@
         "USDJPY": {
           "H4": {
             "symbol": "USDJPY",
-            "timestamp": "2025-06-04T11:42:03.992007",
+            "timestamp": "2025-06-04T11:47:06.300238",
             "timeframe": "H4",
             "current_tick": {
-              "bid": 144.249,
-              "ask": 144.264,
+              "bid": 144.272,
+              "ask": 144.287,
               "last": 0.0,
               "volume": 0,
               "spread": 0.01500000000001478
@@ -3321,11 +3319,11 @@
           },
           "H1": {
             "symbol": "USDJPY",
-            "timestamp": "2025-06-04T11:42:04.004289",
+            "timestamp": "2025-06-04T11:47:06.309848",
             "timeframe": "H1",
             "current_tick": {
-              "bid": 144.249,
-              "ask": 144.264,
+              "bid": 144.272,
+              "ask": 144.287,
               "last": 0.0,
               "volume": 0,
               "spread": 0.01500000000001478
@@ -3583,14 +3581,14 @@
         "AUDUSD": {
           "H4": {
             "symbol": "AUDUSD",
-            "timestamp": "2025-06-04T11:42:04.009845",
+            "timestamp": "2025-06-04T11:47:06.314082",
             "timeframe": "H4",
             "current_tick": {
-              "bid": 0.64824,
-              "ask": 0.64838,
+              "bid": 0.64855,
+              "ask": 0.64869,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.00013999999999991797
+              "spread": 0.000140000000000029
             },
             "symbol_info": {
               "digits": 5,
@@ -3783,14 +3781,14 @@
           },
           "H1": {
             "symbol": "AUDUSD",
-            "timestamp": "2025-06-04T11:42:04.022463",
+            "timestamp": "2025-06-04T11:47:06.321544",
             "timeframe": "H1",
             "current_tick": {
-              "bid": 0.64824,
-              "ask": 0.64838,
+              "bid": 0.64855,
+              "ask": 0.64869,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.00013999999999991797
+              "spread": 0.000140000000000029
             },
             "symbol_info": {
               "digits": 5,
@@ -4045,14 +4043,14 @@
         "USDCAD": {
           "H4": {
             "symbol": "USDCAD",
-            "timestamp": "2025-06-04T11:42:04.028192",
+            "timestamp": "2025-06-04T11:47:06.324242",
             "timeframe": "H4",
             "current_tick": {
-              "bid": 1.3704399999999999,
-              "ask": 1.37057,
+              "bid": 1.37052,
+              "ask": 1.37065,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.00013000000000018552
+              "spread": 0.00012999999999996348
             },
             "symbol_info": {
               "digits": 5,
@@ -4200,14 +4198,14 @@
           },
           "H1": {
             "symbol": "USDCAD",
-            "timestamp": "2025-06-04T11:42:04.035926",
+            "timestamp": "2025-06-04T11:47:06.330884",
             "timeframe": "H1",
             "current_tick": {
-              "bid": 1.3704399999999999,
-              "ask": 1.37057,
+              "bid": 1.37052,
+              "ask": 1.37065,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.00013000000000018552
+              "spread": 0.00012999999999996348
             },
             "symbol_info": {
               "digits": 5,
@@ -4503,14 +4501,14 @@
         "NZDUSD": {
           "H4": {
             "symbol": "NZDUSD",
-            "timestamp": "2025-06-04T11:42:04.039900",
+            "timestamp": "2025-06-04T11:47:06.335116",
             "timeframe": "H4",
             "current_tick": {
-              "bid": 0.60147,
-              "ask": 0.60161,
+              "bid": 0.60162,
+              "ask": 0.60178,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.000140000000000029
+              "spread": 0.00015999999999993797
             },
             "symbol_info": {
               "digits": 5,
@@ -4681,14 +4679,14 @@
           },
           "H1": {
             "symbol": "NZDUSD",
-            "timestamp": "2025-06-04T11:42:04.049080",
+            "timestamp": "2025-06-04T11:47:06.341755",
             "timeframe": "H1",
             "current_tick": {
-              "bid": 0.60147,
-              "ask": 0.60161,
+              "bid": 0.60162,
+              "ask": 0.60178,
               "last": 0.0,
               "volume": 0,
-              "spread": 0.000140000000000029
+              "spread": 0.00015999999999993797
             },
             "symbol_info": {
               "digits": 5,
@@ -4883,11 +4881,11 @@
       "group_1_trend_momentum": {
         "H4": {
           "symbol": "EURUSD",
-          "timestamp": "2025-06-04T11:42:03.041846",
+          "timestamp": "2025-06-04T11:47:05.454281",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 1.13839,
-            "ask": 1.13852,
+            "bid": 1.13822,
+            "ask": 1.13835,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -4918,11 +4916,11 @@
       "group_2_volatility_breakout": {
         "H1": {
           "symbol": "EURUSD",
-          "timestamp": "2025-06-04T11:42:03.066923",
+          "timestamp": "2025-06-04T11:47:05.483291",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 1.13839,
-            "ask": 1.13852,
+            "bid": 1.13822,
+            "ask": 1.13835,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -4964,11 +4962,11 @@
         },
         "M15": {
           "symbol": "EURUSD",
-          "timestamp": "2025-06-04T11:42:03.094014",
+          "timestamp": "2025-06-04T11:47:05.508470",
           "timeframe": "M15",
           "current_tick": {
-            "bid": 1.13839,
-            "ask": 1.13852,
+            "bid": 1.13822,
+            "ask": 1.13835,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -4981,30 +4979,30 @@
           },
           "technical_indicators": {
             "bollinger_bands": {
-              "upper": 1.1398307200637372,
-              "middle": 1.137699500000004,
-              "lower": 1.135568279936271,
-              "width": 0.004262440127466238
+              "upper": 1.1401404074920525,
+              "middle": 1.137858000000004,
+              "lower": 1.1355755925079556,
+              "width": 0.004564814984096888
             },
             "keltner_channels": {
-              "upper": 1.1396323892622144,
-              "middle": 1.1381531057708087,
-              "lower": 1.136673822279403,
-              "width": 0.0029585669828113836
+              "upper": 1.1397708435856624,
+              "middle": 1.138318524268827,
+              "lower": 1.1368662049519915,
+              "width": 0.002904638633670853
             },
             "squeeze_analysis": {
               "squeeze_detected": false,
-              "bb_width": 0.004262440127466238,
-              "kc_width": 0.0029585669828113836
+              "bb_width": 0.004564814984096888,
+              "kc_width": 0.002904638633670853
             },
-            "atr": 0.0007695842222361632,
+            "atr": 0.0007481853492192923,
             "macd": {
-              "macd_line": 0.00045717670736888927,
-              "signal_line": 0.00018433507297558593,
-              "histogram": 0.0002728416343933033
+              "macd_line": 0.0005351301898623984,
+              "signal_line": 0.0002544940963529484,
+              "histogram": 0.0002806360935094499
             },
-            "current_price": 1.13997,
-            "current_volume": 742.0
+            "current_price": 1.13989,
+            "current_volume": 719.0
           },
           "candles_analyzed": 6912
         }
@@ -5012,11 +5010,11 @@
       "group_3_price_action": {
         "H4": {
           "symbol": "EURUSD",
-          "timestamp": "2025-06-04T11:42:03.279207",
+          "timestamp": "2025-06-04T11:47:05.685926",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 1.13835,
-            "ask": 1.13848,
+            "bid": 1.13822,
+            "ask": 1.13835,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -5058,11 +5056,11 @@
         },
         "H1": {
           "symbol": "EURUSD",
-          "timestamp": "2025-06-04T11:42:03.284967",
+          "timestamp": "2025-06-04T11:47:05.691344",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 1.13835,
-            "ask": 1.13848,
+            "bid": 1.13822,
+            "ask": 1.13835,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -5106,11 +5104,11 @@
       "group_4_scalping": {
         "M15": {
           "symbol": "EURUSD",
-          "timestamp": "2025-06-04T11:42:03.382843",
+          "timestamp": "2025-06-04T11:47:05.765038",
           "timeframe": "M15",
           "current_tick": {
-            "bid": 1.13835,
-            "ask": 1.13848,
+            "bid": 1.13822,
+            "ask": 1.13835,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -5122,22 +5120,22 @@
             "currency_profit": "USD"
           },
           "technical_indicators": {
-            "ema_9": 1.1387104830119958,
-            "ema_21": 1.1381274815533935,
-            "ema_spread": 0.0005830014586023502,
-            "rsi_7": 77.07044663687964,
-            "cci_14": 116.45454545455995,
+            "ema_9": 1.1389463864095968,
+            "ema_21": 1.138287710503085,
+            "ema_spread": 0.0006586759065116965,
+            "rsi_7": 74.9634508752981,
+            "cci_14": 119.30283224400956,
             "vwap": {
-              "current_vwap": 1.137790861559472,
-              "vwap_deviation": 0.0021791384405278613,
+              "current_vwap": 1.1378502013910514,
+              "vwap_deviation": 0.002039798608948651,
               "price_above_vwap": true,
-              "deviation_percentage": 0.19152363708925413
+              "deviation_percentage": 0.17926776358214325
             },
             "micro_trend": {
               "direction": "BULLISH",
               "ema_cross_signal": null,
-              "price_vs_ema9": 0.0012595169880040835,
-              "price_vs_ema21": 0.0018425184466064337
+              "price_vs_ema9": 0.0009436135904032916,
+              "price_vs_ema21": 0.0016022894969149881
             },
             "scalping_conditions": {
               "rsi_oversold": false,
@@ -5149,18 +5147,18 @@
               "ema_cross_signal": null
             },
             "scalping_alerts": [],
-            "current_price": 1.13997,
-            "current_volume": 742.0
+            "current_price": 1.13989,
+            "current_volume": 719.0
           },
           "candles_analyzed": 6912
         },
         "M5": {
           "symbol": "EURUSD",
-          "timestamp": "2025-06-04T11:42:03.457373",
+          "timestamp": "2025-06-04T11:47:05.830451",
           "timeframe": "M5",
           "current_tick": {
-            "bid": 1.13835,
-            "ask": 1.13848,
+            "bid": 1.13822,
+            "ask": 1.13835,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -5172,22 +5170,22 @@
             "currency_profit": "USD"
           },
           "technical_indicators": {
-            "ema_9": 1.1392384189187832,
-            "ema_21": 1.1387842014863425,
-            "ema_spread": 0.00045421743244067336,
-            "rsi_7": 83.30538362248858,
-            "cci_14": 174.97691597413385,
+            "ema_9": 1.1394227351350266,
+            "ema_21": 1.1389092740784932,
+            "ema_spread": 0.0005134610565333819,
+            "rsi_7": 85.37204641056904,
+            "cci_14": 179.46303458328586,
             "vwap": {
-              "current_vwap": 1.1376316156304773,
-              "vwap_deviation": 0.002338384369522606,
+              "current_vwap": 1.1376802845716043,
+              "vwap_deviation": 0.0024797154283957568,
               "price_above_vwap": true,
-              "deviation_percentage": 0.20554846906453714
+              "deviation_percentage": 0.2179624154539602
             },
             "micro_trend": {
               "direction": "BULLISH",
               "ema_cross_signal": null,
-              "price_vs_ema9": 0.0007315810812167367,
-              "price_vs_ema21": 0.00118579851365741
+              "price_vs_ema9": 0.000737264864973497,
+              "price_vs_ema21": 0.0012507259215068789
             },
             "scalping_conditions": {
               "rsi_oversold": false,
@@ -5199,8 +5197,8 @@
               "ema_cross_signal": null
             },
             "scalping_alerts": [],
-            "current_price": 1.13997,
-            "current_volume": 247.0
+            "current_price": 1.14016,
+            "current_volume": 226.0
           },
           "candles_analyzed": 20736
         }
@@ -5208,14 +5206,14 @@
       "group_5_reversal_divergence": {
         "H4": {
           "symbol": "EURUSD",
-          "timestamp": "2025-06-04T11:42:03.969188",
+          "timestamp": "2025-06-04T11:47:06.275191",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 1.13834,
-            "ask": 1.13847,
+            "bid": 1.13822,
+            "ask": 1.13835,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013000000000018552
+            "spread": 0.00012999999999996348
           },
           "symbol_info": {
             "digits": 5,
@@ -5408,14 +5406,14 @@
         },
         "H1": {
           "symbol": "EURUSD",
-          "timestamp": "2025-06-04T11:42:03.975686",
+          "timestamp": "2025-06-04T11:47:06.282326",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 1.13834,
-            "ask": 1.13847,
+            "bid": 1.13822,
+            "ask": 1.13835,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013000000000018552
+            "spread": 0.00012999999999996348
           },
           "symbol_info": {
             "digits": 5,
@@ -5692,11 +5690,11 @@
       "group_1_trend_momentum": {
         "H4": {
           "symbol": "GBPUSD",
-          "timestamp": "2025-06-04T11:42:03.043806",
+          "timestamp": "2025-06-04T11:47:05.456778",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 1.35213,
-            "ask": 1.35226,
+            "bid": 1.35176,
+            "ask": 1.35189,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -5727,11 +5725,11 @@
       "group_2_volatility_breakout": {
         "H1": {
           "symbol": "GBPUSD",
-          "timestamp": "2025-06-04T11:42:03.100823",
+          "timestamp": "2025-06-04T11:47:05.517837",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 1.35213,
-            "ask": 1.35226,
+            "bid": 1.35176,
+            "ask": 1.35189,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -5773,11 +5771,11 @@
         },
         "M15": {
           "symbol": "GBPUSD",
-          "timestamp": "2025-06-04T11:42:03.127504",
+          "timestamp": "2025-06-04T11:47:05.542239",
           "timeframe": "M15",
           "current_tick": {
-            "bid": 1.35213,
-            "ask": 1.35226,
+            "bid": 1.35176,
+            "ask": 1.35189,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -5790,30 +5788,30 @@
           },
           "technical_indicators": {
             "bollinger_bands": {
-              "upper": 1.3541428305757381,
-              "middle": 1.3521914999999969,
-              "lower": 1.3502401694242556,
-              "width": 0.0039026611514825227
+              "upper": 1.354382874638499,
+              "middle": 1.3523089999999967,
+              "lower": 1.3502351253614944,
+              "width": 0.004147749277004564
             },
             "keltner_channels": {
-              "upper": 1.354280421865706,
-              "middle": 1.3525987973415274,
-              "lower": 1.3509171728173488,
-              "width": 0.0033632490483572752
+              "upper": 1.3543980266069708,
+              "middle": 1.352727483309001,
+              "lower": 1.3510569400110313,
+              "width": 0.0033410865959395686
             },
             "squeeze_analysis": {
               "squeeze_detected": false,
-              "bb_width": 0.0039026611514825227,
-              "kc_width": 0.0033632490483572752
+              "bb_width": 0.004147749277004564,
+              "kc_width": 0.0033410865959395686
             },
-            "atr": 0.0008871519171315659,
+            "atr": 0.0008759267801936053,
             "macd": {
-              "macd_line": 0.00034155997297991014,
-              "signal_line": 0.00012506416236742778,
-              "histogram": 0.00021649581061248236
+              "macd_line": 0.00040407027432043385,
+              "signal_line": 0.00018086538475802898,
+              "histogram": 0.00022320488956240487
             },
-            "current_price": 1.35379,
-            "current_volume": 949.0
+            "current_price": 1.35395,
+            "current_volume": 798.0
           },
           "candles_analyzed": 6912
         }
@@ -5821,11 +5819,11 @@
       "group_3_price_action": {
         "H4": {
           "symbol": "GBPUSD",
-          "timestamp": "2025-06-04T11:42:03.286908",
+          "timestamp": "2025-06-04T11:47:05.693182",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 1.3521,
-            "ask": 1.35223,
+            "bid": 1.35176,
+            "ask": 1.35189,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -5867,11 +5865,11 @@
         },
         "H1": {
           "symbol": "GBPUSD",
-          "timestamp": "2025-06-04T11:42:03.292339",
+          "timestamp": "2025-06-04T11:47:05.698711",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 1.3521,
-            "ask": 1.35223,
+            "bid": 1.35176,
+            "ask": 1.35189,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -5915,11 +5913,11 @@
       "group_4_scalping": {
         "M15": {
           "symbol": "GBPUSD",
-          "timestamp": "2025-06-04T11:42:03.488509",
+          "timestamp": "2025-06-04T11:47:05.851988",
           "timeframe": "M15",
           "current_tick": {
-            "bid": 1.3521,
-            "ask": 1.35223,
+            "bid": 1.35176,
+            "ask": 1.35189,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -5931,22 +5929,22 @@
             "currency_profit": "USD"
           },
           "technical_indicators": {
-            "ema_9": 1.3530210002269722,
-            "ema_21": 1.3525801306335048,
-            "ema_spread": 0.00044086959346745225,
-            "rsi_7": 67.33200646753046,
-            "cci_14": 107.94550860936064,
+            "ema_9": 1.3532068001815778,
+            "ema_21": 1.352704664212277,
+            "ema_spread": 0.0005021359693007099,
+            "rsi_7": 69.07146453762931,
+            "cci_14": 107.04279539230697,
             "vwap": {
-              "current_vwap": 1.3523979250095965,
-              "vwap_deviation": 0.0013920749904035024,
+              "current_vwap": 1.352451078174632,
+              "vwap_deviation": 0.001498921825368038,
               "price_above_vwap": true,
-              "deviation_percentage": 0.10293383069140868
+              "deviation_percentage": 0.11083002184382847
             },
             "micro_trend": {
               "direction": "BULLISH",
               "ema_cross_signal": null,
-              "price_vs_ema9": 0.0007689997730278009,
-              "price_vs_ema21": 0.0012098693664952531
+              "price_vs_ema9": 0.0007431998184221911,
+              "price_vs_ema21": 0.001245335787722901
             },
             "scalping_conditions": {
               "rsi_oversold": false,
@@ -5958,18 +5956,18 @@
               "ema_cross_signal": null
             },
             "scalping_alerts": [],
-            "current_price": 1.35379,
-            "current_volume": 949.0
+            "current_price": 1.35395,
+            "current_volume": 798.0
           },
           "candles_analyzed": 6912
         },
         "M5": {
           "symbol": "GBPUSD",
-          "timestamp": "2025-06-04T11:42:03.579123",
+          "timestamp": "2025-06-04T11:47:05.915025",
           "timeframe": "M5",
           "current_tick": {
-            "bid": 1.3521,
-            "ask": 1.35223,
+            "bid": 1.35176,
+            "ask": 1.35189,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -5981,22 +5979,22 @@
             "currency_profit": "USD"
           },
           "technical_indicators": {
-            "ema_9": 1.3535201348342034,
-            "ema_21": 1.3531361209668122,
-            "ema_spread": 0.00038401386739117527,
-            "rsi_7": 59.254683022639576,
-            "cci_14": 125.74510537468805,
+            "ema_9": 1.3536601078673627,
+            "ema_21": 1.3532346554243748,
+            "ema_spread": 0.00042545244298786145,
+            "rsi_7": 65.96692677906637,
+            "cci_14": 132.92583537083672,
             "vwap": {
-              "current_vwap": 1.3521835967408489,
-              "vwap_deviation": 0.001606403259151179,
+              "current_vwap": 1.3522262454464307,
+              "vwap_deviation": 0.0019937545535693157,
               "price_above_vwap": true,
-              "deviation_percentage": 0.11880067640393453
+              "deviation_percentage": 0.1474423795783588
             },
             "micro_trend": {
               "direction": "BULLISH",
               "ema_cross_signal": null,
-              "price_vs_ema9": 0.00026986516579663444,
-              "price_vs_ema21": 0.0006538790331878097
+              "price_vs_ema9": 0.0005598921326372963,
+              "price_vs_ema21": 0.0009853445756251578
             },
             "scalping_conditions": {
               "rsi_oversold": false,
@@ -6008,8 +6006,8 @@
               "ema_cross_signal": null
             },
             "scalping_alerts": [],
-            "current_price": 1.35379,
-            "current_volume": 360.0
+            "current_price": 1.35422,
+            "current_volume": 280.0
           },
           "candles_analyzed": 20729
         }
@@ -6017,14 +6015,14 @@
       "group_5_reversal_divergence": {
         "H4": {
           "symbol": "GBPUSD",
-          "timestamp": "2025-06-04T11:42:03.977877",
+          "timestamp": "2025-06-04T11:47:06.284431",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 1.3520699999999999,
-            "ask": 1.3522,
+            "bid": 1.35176,
+            "ask": 1.35189,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013000000000018552
+            "spread": 0.00012999999999996348
           },
           "symbol_info": {
             "digits": 5,
@@ -6196,14 +6194,14 @@
         },
         "H1": {
           "symbol": "GBPUSD",
-          "timestamp": "2025-06-04T11:42:03.986240",
+          "timestamp": "2025-06-04T11:47:06.293242",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 1.3520699999999999,
-            "ask": 1.3522,
+            "bid": 1.35176,
+            "ask": 1.35189,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013000000000018552
+            "spread": 0.00012999999999996348
           },
           "symbol_info": {
             "digits": 5,
@@ -6460,11 +6458,11 @@
       "group_1_trend_momentum": {
         "H4": {
           "symbol": "USDJPY",
-          "timestamp": "2025-06-04T11:42:03.045740",
+          "timestamp": "2025-06-04T11:47:05.459789",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 144.248,
-            "ask": 144.263,
+            "bid": 144.272,
+            "ask": 144.287,
             "last": 0.0,
             "volume": 0,
             "spread": 0.01500000000001478
@@ -6495,11 +6493,11 @@
       "group_2_volatility_breakout": {
         "H1": {
           "symbol": "USDJPY",
-          "timestamp": "2025-06-04T11:42:03.134289",
+          "timestamp": "2025-06-04T11:47:05.554620",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 144.248,
-            "ask": 144.263,
+            "bid": 144.272,
+            "ask": 144.287,
             "last": 0.0,
             "volume": 0,
             "spread": 0.01500000000001478
@@ -6541,11 +6539,11 @@
         },
         "M15": {
           "symbol": "USDJPY",
-          "timestamp": "2025-06-04T11:42:03.156799",
+          "timestamp": "2025-06-04T11:47:05.577421",
           "timeframe": "M15",
           "current_tick": {
-            "bid": 144.248,
-            "ask": 144.263,
+            "bid": 144.272,
+            "ask": 144.287,
             "last": 0.0,
             "volume": 0,
             "spread": 0.01500000000001478
@@ -6558,30 +6556,30 @@
           },
           "technical_indicators": {
             "bollinger_bands": {
-              "upper": 144.30822199279677,
-              "middle": 144.05294999999978,
-              "lower": 143.7976780072028,
-              "width": 0.5105439855939835
+              "upper": 144.30999734094263,
+              "middle": 144.0444499999998,
+              "lower": 143.778902659057,
+              "width": 0.5310946818856337
             },
             "keltner_channels": {
-              "upper": 144.26689812481996,
-              "middle": 143.9991876973711,
-              "lower": 143.73147726992224,
-              "width": 0.5354208548977226
+              "upper": 144.2514375846503,
+              "middle": 143.98831267857386,
+              "lower": 143.72518777249743,
+              "width": 0.5262498121528552
             },
             "squeeze_analysis": {
-              "squeeze_detected": true,
-              "bb_width": 0.5105439855939835,
-              "kc_width": 0.5354208548977226
+              "squeeze_detected": false,
+              "bb_width": 0.5310946818856337,
+              "kc_width": 0.5262498121528552
             },
-            "atr": 0.13743434977709995,
+            "atr": 0.13390332479302094,
             "macd": {
-              "macd_line": -0.002527029293588612,
-              "signal_line": 0.013009864064202343,
-              "histogram": -0.015536893357790954
+              "macd_line": -0.010930485313963345,
+              "signal_line": 0.008221794188569205,
+              "histogram": -0.01915227950253255
             },
-            "current_price": 143.902,
-            "current_volume": 835.0
+            "current_price": 143.885,
+            "current_volume": 922.0
           },
           "candles_analyzed": 6912
         }
@@ -6589,11 +6587,11 @@
       "group_3_price_action": {
         "H4": {
           "symbol": "USDJPY",
-          "timestamp": "2025-06-04T11:42:03.294868",
+          "timestamp": "2025-06-04T11:47:05.701415",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 144.249,
-            "ask": 144.264,
+            "bid": 144.272,
+            "ask": 144.287,
             "last": 0.0,
             "volume": 0,
             "spread": 0.01500000000001478
@@ -6635,11 +6633,11 @@
         },
         "H1": {
           "symbol": "USDJPY",
-          "timestamp": "2025-06-04T11:42:03.301142",
+          "timestamp": "2025-06-04T11:47:05.710938",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 144.249,
-            "ask": 144.264,
+            "bid": 144.272,
+            "ask": 144.287,
             "last": 0.0,
             "volume": 0,
             "spread": 0.01500000000001478
@@ -6683,11 +6681,11 @@
       "group_4_scalping": {
         "M15": {
           "symbol": "USDJPY",
-          "timestamp": "2025-06-04T11:42:03.605590",
+          "timestamp": "2025-06-04T11:47:05.937260",
           "timeframe": "M15",
           "current_tick": {
-            "bid": 144.249,
-            "ask": 144.264,
+            "bid": 144.272,
+            "ask": 144.287,
             "last": 0.0,
             "volume": 0,
             "spread": 0.01500000000001478
@@ -6699,22 +6697,22 @@
             "currency_profit": "JPY"
           },
           "technical_indicators": {
-            "ema_9": 143.98507350923956,
-            "ema_21": 143.9989309106392,
-            "ema_spread": -0.013857401399633318,
-            "rsi_7": 39.87977810555035,
-            "cci_14": -56.95681836422886,
+            "ema_9": 143.96505880739164,
+            "ema_21": 143.98857355512652,
+            "ema_spread": -0.023514747734878938,
+            "rsi_7": 38.4503074424599,
+            "cci_14": -79.80470483799034,
             "vwap": {
-              "current_vwap": 143.97538521553054,
-              "vwap_deviation": -0.07338521553054989,
+              "current_vwap": 143.97306209174553,
+              "vwap_deviation": -0.08806209174554169,
               "price_above_vwap": false,
-              "deviation_percentage": -0.05097066795181172
+              "deviation_percentage": -0.061165672568264835
             },
             "micro_trend": {
               "direction": "BEARISH",
               "ema_cross_signal": null,
-              "price_vs_ema9": -0.08307350923956847,
-              "price_vs_ema21": -0.09693091063920178
+              "price_vs_ema9": -0.0800588073916515,
+              "price_vs_ema21": -0.10357355512653044
             },
             "scalping_conditions": {
               "rsi_oversold": false,
@@ -6726,18 +6724,18 @@
               "ema_cross_signal": null
             },
             "scalping_alerts": [],
-            "current_price": 143.902,
-            "current_volume": 835.0
+            "current_price": 143.885,
+            "current_volume": 922.0
           },
           "candles_analyzed": 6912
         },
         "M5": {
           "symbol": "USDJPY",
-          "timestamp": "2025-06-04T11:42:03.677734",
+          "timestamp": "2025-06-04T11:47:05.999785",
           "timeframe": "M5",
           "current_tick": {
-            "bid": 144.249,
-            "ask": 144.264,
+            "bid": 144.272,
+            "ask": 144.287,
             "last": 0.0,
             "volume": 0,
             "spread": 0.01500000000001478
@@ -6749,37 +6747,35 @@
             "currency_profit": "JPY"
           },
           "technical_indicators": {
-            "ema_9": 143.99116037593737,
-            "ema_21": 143.995888707231,
-            "ema_spread": -0.004728331293620158,
-            "rsi_7": 34.03904829724431,
-            "cci_14": -73.50527549822822,
+            "ema_9": 143.9743283007499,
+            "ema_21": 143.98780791566455,
+            "ema_spread": -0.01347961491464389,
+            "rsi_7": 35.16809625723735,
+            "cci_14": -106.86517783290942,
             "vwap": {
-              "current_vwap": 144.06229395355996,
-              "vwap_deviation": -0.16029395355997167,
+              "current_vwap": 144.0587828981349,
+              "vwap_deviation": -0.15178289813488277,
               "price_above_vwap": false,
-              "deviation_percentage": -0.11126711172018693
+              "deviation_percentage": -0.10536178015762472
             },
             "micro_trend": {
               "direction": "BEARISH",
-              "ema_cross_signal": "BEARISH_CROSS",
-              "price_vs_ema9": -0.08916037593738224,
-              "price_vs_ema21": -0.0938887072310024
+              "ema_cross_signal": null,
+              "price_vs_ema9": -0.06732830074989238,
+              "price_vs_ema21": -0.08080791566453627
             },
             "scalping_conditions": {
               "rsi_oversold": false,
               "rsi_overbought": false,
-              "cci_oversold": false,
+              "cci_oversold": true,
               "cci_overbought": false,
               "price_above_vwap": false,
               "micro_trend_bullish": false,
-              "ema_cross_signal": "BEARISH_CROSS"
+              "ema_cross_signal": null
             },
-            "scalping_alerts": [
-              "BEARISH_CROSS_CONFIRMED"
-            ],
-            "current_price": 143.902,
-            "current_volume": 293.0
+            "scalping_alerts": [],
+            "current_price": 143.907,
+            "current_volume": 302.0
           },
           "candles_analyzed": 20734
         }
@@ -6787,11 +6783,11 @@
       "group_5_reversal_divergence": {
         "H4": {
           "symbol": "USDJPY",
-          "timestamp": "2025-06-04T11:42:03.992007",
+          "timestamp": "2025-06-04T11:47:06.300238",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 144.249,
-            "ask": 144.264,
+            "bid": 144.272,
+            "ask": 144.287,
             "last": 0.0,
             "volume": 0,
             "spread": 0.01500000000001478
@@ -7068,11 +7064,11 @@
         },
         "H1": {
           "symbol": "USDJPY",
-          "timestamp": "2025-06-04T11:42:04.004289",
+          "timestamp": "2025-06-04T11:47:06.309848",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 144.249,
-            "ask": 144.264,
+            "bid": 144.272,
+            "ask": 144.287,
             "last": 0.0,
             "volume": 0,
             "spread": 0.01500000000001478
@@ -7333,14 +7329,14 @@
       "group_1_trend_momentum": {
         "H4": {
           "symbol": "AUDUSD",
-          "timestamp": "2025-06-04T11:42:03.048894",
+          "timestamp": "2025-06-04T11:47:05.468495",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 0.64824,
-            "ask": 0.64838,
+            "bid": 0.64855,
+            "ask": 0.64869,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013999999999991797
+            "spread": 0.000140000000000029
           },
           "symbol_info": {
             "digits": 5,
@@ -7368,14 +7364,14 @@
       "group_2_volatility_breakout": {
         "H1": {
           "symbol": "AUDUSD",
-          "timestamp": "2025-06-04T11:42:03.163841",
+          "timestamp": "2025-06-04T11:47:05.589442",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 0.64824,
-            "ask": 0.64838,
+            "bid": 0.64855,
+            "ask": 0.64869,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013999999999991797
+            "spread": 0.000140000000000029
           },
           "symbol_info": {
             "digits": 5,
@@ -7414,14 +7410,14 @@
         },
         "M15": {
           "symbol": "AUDUSD",
-          "timestamp": "2025-06-04T11:42:03.187054",
+          "timestamp": "2025-06-04T11:47:05.614016",
           "timeframe": "M15",
           "current_tick": {
-            "bid": 0.64824,
-            "ask": 0.64838,
+            "bid": 0.64855,
+            "ask": 0.64869,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013999999999991797
+            "spread": 0.000140000000000029
           },
           "symbol_info": {
             "digits": 5,
@@ -7431,30 +7427,30 @@
           },
           "technical_indicators": {
             "bollinger_bands": {
-              "upper": 0.6471808866981302,
-              "middle": 0.6461879999999993,
-              "lower": 0.6451951133018684,
-              "width": 0.001985773396261825
+              "upper": 0.6473683159834547,
+              "middle": 0.6462434999999991,
+              "lower": 0.6451186840165435,
+              "width": 0.002249631966911192
             },
             "keltner_channels": {
-              "upper": 0.6475135636018877,
-              "middle": 0.6463737877376203,
-              "lower": 0.6452340118733529,
-              "width": 0.002279551728534779
+              "upper": 0.6475803093098533,
+              "middle": 0.6464715222387993,
+              "lower": 0.6453627351677453,
+              "width": 0.002217574142107992
             },
             "squeeze_analysis": {
-              "squeeze_detected": true,
-              "bb_width": 0.001985773396261825,
-              "kc_width": 0.002279551728534779
+              "squeeze_detected": false,
+              "bb_width": 0.002249631966911192,
+              "kc_width": 0.002217574142107992
             },
-            "atr": 0.0005806063397137112,
+            "atr": 0.0005577058868770202,
             "macd": {
-              "macd_line": 0.0001649976202839909,
-              "signal_line": 3.711599430280361e-05,
-              "histogram": 0.00012788162598118729
+              "macd_line": 0.00022468134742958945,
+              "signal_line": 7.462906492816078e-05,
+              "histogram": 0.00015005228250142868
             },
-            "current_price": 0.6473,
-            "current_volume": 580.0
+            "current_price": 0.6474,
+            "current_volume": 496.0
           },
           "candles_analyzed": 6912
         }
@@ -7462,14 +7458,14 @@
       "group_3_price_action": {
         "H4": {
           "symbol": "AUDUSD",
-          "timestamp": "2025-06-04T11:42:03.306670",
+          "timestamp": "2025-06-04T11:47:05.713519",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 0.64824,
-            "ask": 0.64838,
+            "bid": 0.64855,
+            "ask": 0.64869,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013999999999991797
+            "spread": 0.000140000000000029
           },
           "symbol_info": {
             "digits": 5,
@@ -7508,14 +7504,14 @@
         },
         "H1": {
           "symbol": "AUDUSD",
-          "timestamp": "2025-06-04T11:42:03.315290",
+          "timestamp": "2025-06-04T11:47:05.718741",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 0.64824,
-            "ask": 0.64838,
+            "bid": 0.64855,
+            "ask": 0.64869,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013999999999991797
+            "spread": 0.000140000000000029
           },
           "symbol_info": {
             "digits": 5,
@@ -7556,14 +7552,14 @@
       "group_4_scalping": {
         "M15": {
           "symbol": "AUDUSD",
-          "timestamp": "2025-06-04T11:42:03.710881",
+          "timestamp": "2025-06-04T11:47:06.021593",
           "timeframe": "M15",
           "current_tick": {
-            "bid": 0.64824,
-            "ask": 0.64838,
+            "bid": 0.64855,
+            "ask": 0.64869,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013999999999991797
+            "spread": 0.000140000000000029
           },
           "symbol_info": {
             "digits": 5,
@@ -7572,22 +7568,22 @@
             "currency_profit": "USD"
           },
           "technical_indicators": {
-            "ema_9": 0.6465921982177665,
-            "ema_21": 0.6463651796765888,
-            "ema_spread": 0.0002270185411776815,
-            "rsi_7": 70.04075705838292,
-            "cci_14": 149.6814127070751,
+            "ema_9": 0.6467537585742131,
+            "ema_21": 0.6464592542514443,
+            "ema_spread": 0.0002945043227687849,
+            "rsi_7": 71.42887141212478,
+            "cci_14": 152.07678384301468,
             "vwap": {
-              "current_vwap": 0.6462729646455821,
-              "vwap_deviation": 0.0010270353544178379,
+              "current_vwap": 0.646296499096152,
+              "vwap_deviation": 0.0011035009038479204,
               "price_above_vwap": true,
-              "deviation_percentage": 0.15891665141540726
+              "deviation_percentage": 0.17074220661742254
             },
             "micro_trend": {
               "direction": "BULLISH",
               "ema_cross_signal": null,
-              "price_vs_ema9": 0.0007078017822335081,
-              "price_vs_ema21": 0.0009348203234111896
+              "price_vs_ema9": 0.0006462414257868421,
+              "price_vs_ema21": 0.000940745748555627
             },
             "scalping_conditions": {
               "rsi_oversold": false,
@@ -7599,21 +7595,21 @@
               "ema_cross_signal": null
             },
             "scalping_alerts": [],
-            "current_price": 0.6473,
-            "current_volume": 580.0
+            "current_price": 0.6474,
+            "current_volume": 496.0
           },
           "candles_analyzed": 6912
         },
         "M5": {
           "symbol": "AUDUSD",
-          "timestamp": "2025-06-04T11:42:03.775040",
+          "timestamp": "2025-06-04T11:47:06.082203",
           "timeframe": "M5",
           "current_tick": {
-            "bid": 0.64824,
-            "ask": 0.64838,
+            "bid": 0.64855,
+            "ask": 0.64869,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013999999999991797
+            "spread": 0.000140000000000029
           },
           "symbol_info": {
             "digits": 5,
@@ -7622,26 +7618,26 @@
             "currency_profit": "USD"
           },
           "technical_indicators": {
-            "ema_9": 0.6468937082900853,
-            "ema_21": 0.6466399851662512,
-            "ema_spread": 0.0002537231238340931,
-            "rsi_7": 78.03591116760548,
-            "cci_14": 133.38403041825129,
+            "ema_9": 0.6470009666320682,
+            "ema_21": 0.646711804696592,
+            "ema_spread": 0.00028916193547623426,
+            "rsi_7": 80.78173046565071,
+            "cci_14": 140.7928688716729,
             "vwap": {
-              "current_vwap": 0.646100521551424,
-              "vwap_deviation": 0.0011994784485760412,
+              "current_vwap": 0.646125827527642,
+              "vwap_deviation": 0.0013041724723579229,
               "price_above_vwap": true,
-              "deviation_percentage": 0.18564889031444207
+              "deviation_percentage": 0.20184496839388902
             },
             "micro_trend": {
               "direction": "BULLISH",
               "ema_cross_signal": null,
-              "price_vs_ema9": 0.00040629170991468566,
-              "price_vs_ema21": 0.0006600148337487788
+              "price_vs_ema9": 0.0004290333679317637,
+              "price_vs_ema21": 0.000718195303407998
             },
             "scalping_conditions": {
               "rsi_oversold": false,
-              "rsi_overbought": false,
+              "rsi_overbought": true,
               "cci_oversold": false,
               "cci_overbought": true,
               "price_above_vwap": true,
@@ -7649,8 +7645,8 @@
               "ema_cross_signal": null
             },
             "scalping_alerts": [],
-            "current_price": 0.6473,
-            "current_volume": 169.0
+            "current_price": 0.64743,
+            "current_volume": 176.0
           },
           "candles_analyzed": 20736
         }
@@ -7658,14 +7654,14 @@
       "group_5_reversal_divergence": {
         "H4": {
           "symbol": "AUDUSD",
-          "timestamp": "2025-06-04T11:42:04.009845",
+          "timestamp": "2025-06-04T11:47:06.314082",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 0.64824,
-            "ask": 0.64838,
+            "bid": 0.64855,
+            "ask": 0.64869,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013999999999991797
+            "spread": 0.000140000000000029
           },
           "symbol_info": {
             "digits": 5,
@@ -7858,14 +7854,14 @@
         },
         "H1": {
           "symbol": "AUDUSD",
-          "timestamp": "2025-06-04T11:42:04.022463",
+          "timestamp": "2025-06-04T11:47:06.321544",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 0.64824,
-            "ask": 0.64838,
+            "bid": 0.64855,
+            "ask": 0.64869,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013999999999991797
+            "spread": 0.000140000000000029
           },
           "symbol_info": {
             "digits": 5,
@@ -8122,11 +8118,11 @@
       "group_1_trend_momentum": {
         "H4": {
           "symbol": "USDCAD",
-          "timestamp": "2025-06-04T11:42:03.056704",
+          "timestamp": "2025-06-04T11:47:05.470911",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 1.37043,
-            "ask": 1.37056,
+            "bid": 1.37052,
+            "ask": 1.37065,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -8157,11 +8153,11 @@
       "group_2_volatility_breakout": {
         "H1": {
           "symbol": "USDCAD",
-          "timestamp": "2025-06-04T11:42:03.193600",
+          "timestamp": "2025-06-04T11:47:05.620359",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 1.37043,
-            "ask": 1.37056,
+            "bid": 1.37052,
+            "ask": 1.37065,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -8203,11 +8199,11 @@
         },
         "M15": {
           "symbol": "USDCAD",
-          "timestamp": "2025-06-04T11:42:03.220474",
+          "timestamp": "2025-06-04T11:47:05.646296",
           "timeframe": "M15",
           "current_tick": {
-            "bid": 1.37043,
-            "ask": 1.37056,
+            "bid": 1.37052,
+            "ask": 1.37065,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -8220,30 +8216,30 @@
           },
           "technical_indicators": {
             "bollinger_bands": {
-              "upper": 1.3728363362130938,
-              "middle": 1.3719320000000015,
-              "lower": 1.3710276637869092,
-              "width": 0.0018086724261845433
+              "upper": 1.3729025657805176,
+              "middle": 1.3718765000000013,
+              "lower": 1.370850434219485,
+              "width": 0.0020521315610326774
             },
             "keltner_channels": {
-              "upper": 1.3728136362194288,
-              "middle": 1.3717654036268336,
-              "lower": 1.3707171710342385,
-              "width": 0.002096465185190244
+              "upper": 1.3727051861491482,
+              "middle": 1.3716753651861828,
+              "lower": 1.3706455442232175,
+              "width": 0.0020596419259306664
             },
             "squeeze_analysis": {
               "squeeze_detected": true,
-              "bb_width": 0.0018086724261845433,
-              "kc_width": 0.002096465185190244
+              "bb_width": 0.0020521315610326774,
+              "kc_width": 0.0020596419259306664
             },
-            "atr": 0.0005370826597700045,
+            "atr": 0.0005230053269292904,
             "macd": {
-              "macd_line": -0.00010794440849570819,
-              "signal_line": 1.5161747793158754e-05,
-              "histogram": -0.00012310615628886694
+              "macd_line": -0.00016841909354936568,
+              "signal_line": -2.1554420475346135e-05,
+              "histogram": -0.00014686467307401956
             },
-            "current_price": 1.37093,
-            "current_volume": 454.0
+            "current_price": 1.37082,
+            "current_volume": 552.0
           },
           "candles_analyzed": 6912
         }
@@ -8251,11 +8247,11 @@
       "group_3_price_action": {
         "H4": {
           "symbol": "USDCAD",
-          "timestamp": "2025-06-04T11:42:03.317980",
+          "timestamp": "2025-06-04T11:47:05.720412",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 1.37043,
-            "ask": 1.37056,
+            "bid": 1.37052,
+            "ask": 1.37065,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -8297,14 +8293,14 @@
         },
         "H1": {
           "symbol": "USDCAD",
-          "timestamp": "2025-06-04T11:42:03.326873",
+          "timestamp": "2025-06-04T11:47:05.725158",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 1.3704399999999999,
-            "ask": 1.37057,
+            "bid": 1.37052,
+            "ask": 1.37065,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013000000000018552
+            "spread": 0.00012999999999996348
           },
           "symbol_info": {
             "digits": 5,
@@ -8345,14 +8341,14 @@
       "group_4_scalping": {
         "M15": {
           "symbol": "USDCAD",
-          "timestamp": "2025-06-04T11:42:03.798090",
+          "timestamp": "2025-06-04T11:47:06.107608",
           "timeframe": "M15",
           "current_tick": {
-            "bid": 1.3704399999999999,
-            "ask": 1.37057,
+            "bid": 1.37052,
+            "ask": 1.37065,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013000000000018552
+            "spread": 0.00012999999999996348
           },
           "symbol_info": {
             "digits": 5,
@@ -8361,22 +8357,22 @@
             "currency_profit": "CAD"
           },
           "technical_indicators": {
-            "ema_9": 1.3715991392546805,
-            "ema_21": 1.3717701246515144,
-            "ema_spread": -0.00017098539683391145,
-            "rsi_7": 28.39308317753808,
-            "cci_14": -132.86511795424144,
+            "ema_9": 1.3714433114037443,
+            "ema_21": 1.3716837496831948,
+            "ema_spread": -0.00024043827945052776,
+            "rsi_7": 26.735888072215314,
+            "cci_14": -140.2190923317932,
             "vwap": {
-              "current_vwap": 1.371772855012507,
-              "vwap_deviation": -0.0008428550125070267,
+              "current_vwap": 1.3717484052973041,
+              "vwap_deviation": -0.0009284052973042023,
               "price_above_vwap": false,
-              "deviation_percentage": -0.06144275339952999
+              "deviation_percentage": -0.06768043569206743
             },
             "micro_trend": {
               "direction": "BEARISH",
               "ema_cross_signal": null,
-              "price_vs_ema9": -0.0006691392546804842,
-              "price_vs_ema21": -0.0008401246515143956
+              "price_vs_ema9": -0.0006233114037443865,
+              "price_vs_ema21": -0.0008637496831949143
             },
             "scalping_conditions": {
               "rsi_oversold": false,
@@ -8388,21 +8384,21 @@
               "ema_cross_signal": null
             },
             "scalping_alerts": [],
-            "current_price": 1.37093,
-            "current_volume": 454.0
+            "current_price": 1.37082,
+            "current_volume": 552.0
           },
           "candles_analyzed": 6912
         },
         "M5": {
           "symbol": "USDCAD",
-          "timestamp": "2025-06-04T11:42:03.863723",
+          "timestamp": "2025-06-04T11:47:06.178748",
           "timeframe": "M5",
           "current_tick": {
-            "bid": 1.3704399999999999,
-            "ask": 1.37057,
+            "bid": 1.37052,
+            "ask": 1.37065,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013000000000018552
+            "spread": 0.00012999999999996348
           },
           "symbol_info": {
             "digits": 5,
@@ -8411,22 +8407,22 @@
             "currency_profit": "CAD"
           },
           "technical_indicators": {
-            "ema_9": 1.3713392776274087,
-            "ema_21": 1.3715815056344112,
-            "ema_spread": -0.00024222800700246516,
-            "rsi_7": 22.31104814064777,
-            "cci_14": -142.94523032293077,
+            "ema_9": 1.3712554221019269,
+            "ema_21": 1.3715213687585557,
+            "ema_spread": -0.0002659466566288238,
+            "rsi_7": 22.068942180517137,
+            "cci_14": -136.76801801796543,
             "vwap": {
-              "current_vwap": 1.3720762374623428,
-              "vwap_deviation": -0.0011462374623427696,
+              "current_vwap": 1.372055958033065,
+              "vwap_deviation": -0.0011359580330649877,
               "price_above_vwap": false,
-              "deviation_percentage": -0.08354036248472152
+              "deviation_percentage": -0.08279239825564115
             },
             "micro_trend": {
               "direction": "BEARISH",
               "ema_cross_signal": null,
-              "price_vs_ema9": -0.00040927762740872176,
-              "price_vs_ema21": -0.0006515056344111869
+              "price_vs_ema9": -0.000335422101926941,
+              "price_vs_ema21": -0.0006013687585557648
             },
             "scalping_conditions": {
               "rsi_oversold": false,
@@ -8438,8 +8434,8 @@
               "ema_cross_signal": null
             },
             "scalping_alerts": [],
-            "current_price": 1.37093,
-            "current_volume": 173.0
+            "current_price": 1.37092,
+            "current_volume": 188.0
           },
           "candles_analyzed": 20736
         }
@@ -8447,14 +8443,14 @@
       "group_5_reversal_divergence": {
         "H4": {
           "symbol": "USDCAD",
-          "timestamp": "2025-06-04T11:42:04.028192",
+          "timestamp": "2025-06-04T11:47:06.324242",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 1.3704399999999999,
-            "ask": 1.37057,
+            "bid": 1.37052,
+            "ask": 1.37065,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013000000000018552
+            "spread": 0.00012999999999996348
           },
           "symbol_info": {
             "digits": 5,
@@ -8602,14 +8598,14 @@
         },
         "H1": {
           "symbol": "USDCAD",
-          "timestamp": "2025-06-04T11:42:04.035926",
+          "timestamp": "2025-06-04T11:47:06.330884",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 1.3704399999999999,
-            "ask": 1.37057,
+            "bid": 1.37052,
+            "ask": 1.37065,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013000000000018552
+            "spread": 0.00012999999999996348
           },
           "symbol_info": {
             "digits": 5,
@@ -8907,14 +8903,14 @@
       "group_1_trend_momentum": {
         "H4": {
           "symbol": "NZDUSD",
-          "timestamp": "2025-06-04T11:42:03.058394",
+          "timestamp": "2025-06-04T11:47:05.472848",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 0.60147,
-            "ask": 0.60161,
+            "bid": 0.60161,
+            "ask": 0.60177,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.000140000000000029
+            "spread": 0.000160000000000049
           },
           "symbol_info": {
             "digits": 5,
@@ -8942,14 +8938,14 @@
       "group_2_volatility_breakout": {
         "H1": {
           "symbol": "NZDUSD",
-          "timestamp": "2025-06-04T11:42:03.228821",
+          "timestamp": "2025-06-04T11:47:05.652987",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 0.60147,
-            "ask": 0.60161,
+            "bid": 0.60161,
+            "ask": 0.60177,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.000140000000000029
+            "spread": 0.000160000000000049
           },
           "symbol_info": {
             "digits": 5,
@@ -8988,14 +8984,14 @@
         },
         "M15": {
           "symbol": "NZDUSD",
-          "timestamp": "2025-06-04T11:42:03.262684",
+          "timestamp": "2025-06-04T11:47:05.678585",
           "timeframe": "M15",
           "current_tick": {
-            "bid": 0.60147,
-            "ask": 0.60161,
+            "bid": 0.60161,
+            "ask": 0.60177,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.000140000000000029
+            "spread": 0.000160000000000049
           },
           "symbol_info": {
             "digits": 5,
@@ -9005,30 +9001,30 @@
           },
           "technical_indicators": {
             "bollinger_bands": {
-              "upper": 0.6010206269569367,
-              "middle": 0.6001630000000003,
-              "lower": 0.599305373043064,
-              "width": 0.0017152539138727274
+              "upper": 0.6011963208622498,
+              "middle": 0.6002195000000003,
+              "lower": 0.5992426791377509,
+              "width": 0.0019536417244989668
             },
             "keltner_channels": {
-              "upper": 0.6013886815660614,
-              "middle": 0.6003175795516238,
-              "lower": 0.5992464775371862,
-              "width": 0.0021422040288752164
+              "upper": 0.6014699760318515,
+              "middle": 0.6004054291181358,
+              "lower": 0.5993408822044201,
+              "width": 0.0021290938274314275
             },
             "squeeze_analysis": {
               "squeeze_detected": true,
-              "bb_width": 0.0017152539138727274,
-              "kc_width": 0.0021422040288752164
+              "bb_width": 0.0019536417244989668,
+              "kc_width": 0.0021290938274314275
             },
-            "atr": 0.0005485026746820387,
+            "atr": 0.0005428953407761768,
             "macd": {
-              "macd_line": 0.00016007722583277761,
-              "signal_line": 7.018469793336683e-05,
-              "histogram": 8.989252789941079e-05
+              "macd_line": 0.000212684861144119,
+              "signal_line": 9.868473057551726e-05,
+              "histogram": 0.00011400013056860174
             },
-            "current_price": 0.60112,
-            "current_volume": 474.0
+            "current_price": 0.60124,
+            "current_volume": 468.0
           },
           "candles_analyzed": 6912
         }
@@ -9036,14 +9032,14 @@
       "group_3_price_action": {
         "H4": {
           "symbol": "NZDUSD",
-          "timestamp": "2025-06-04T11:42:03.338851",
+          "timestamp": "2025-06-04T11:47:05.726738",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 0.60147,
-            "ask": 0.60161,
+            "bid": 0.60161,
+            "ask": 0.60177,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.000140000000000029
+            "spread": 0.000160000000000049
           },
           "symbol_info": {
             "digits": 5,
@@ -9082,14 +9078,14 @@
         },
         "H1": {
           "symbol": "NZDUSD",
-          "timestamp": "2025-06-04T11:42:03.346047",
+          "timestamp": "2025-06-04T11:47:05.732570",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 0.60147,
-            "ask": 0.60161,
+            "bid": 0.60161,
+            "ask": 0.60177,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.000140000000000029
+            "spread": 0.000160000000000049
           },
           "symbol_info": {
             "digits": 5,
@@ -9130,14 +9126,14 @@
       "group_4_scalping": {
         "M15": {
           "symbol": "NZDUSD",
-          "timestamp": "2025-06-04T11:42:03.885286",
+          "timestamp": "2025-06-04T11:47:06.201675",
           "timeframe": "M15",
           "current_tick": {
-            "bid": 0.60147,
-            "ask": 0.60161,
+            "bid": 0.60162,
+            "ask": 0.60178,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.000140000000000029
+            "spread": 0.00015999999999993797
           },
           "symbol_info": {
             "digits": 5,
@@ -9146,22 +9142,22 @@
             "currency_profit": "USD"
           },
           "technical_indicators": {
-            "ema_9": 0.6005071180435636,
-            "ema_21": 0.60030841924226,
-            "ema_spread": 0.0001986988013036317,
-            "rsi_7": 69.087983269714,
-            "cci_14": 131.01868170601324,
+            "ema_9": 0.6006536944348508,
+            "ema_21": 0.6003931084020545,
+            "ema_spread": 0.0002605860327963283,
+            "rsi_7": 70.96637640528752,
+            "cci_14": 156.45342312007656,
             "vwap": {
-              "current_vwap": 0.6002086762688615,
-              "vwap_deviation": 0.000911323731138447,
+              "current_vwap": 0.6002417180805486,
+              "vwap_deviation": 0.0009982819194513937,
               "price_above_vwap": true,
-              "deviation_percentage": 0.151834481434624
+              "deviation_percentage": 0.16631331834843086
             },
             "micro_trend": {
               "direction": "BULLISH",
               "ema_cross_signal": null,
-              "price_vs_ema9": 0.0006128819564363841,
-              "price_vs_ema21": 0.0008115807577400158
+              "price_vs_ema9": 0.0005863055651491589,
+              "price_vs_ema21": 0.0008468915979454872
             },
             "scalping_conditions": {
               "rsi_oversold": false,
@@ -9173,21 +9169,21 @@
               "ema_cross_signal": null
             },
             "scalping_alerts": [],
-            "current_price": 0.60112,
-            "current_volume": 474.0
+            "current_price": 0.60124,
+            "current_volume": 468.0
           },
           "candles_analyzed": 6912
         },
         "M5": {
           "symbol": "NZDUSD",
-          "timestamp": "2025-06-04T11:42:03.961421",
+          "timestamp": "2025-06-04T11:47:06.268035",
           "timeframe": "M5",
           "current_tick": {
-            "bid": 0.60147,
-            "ask": 0.60161,
+            "bid": 0.60162,
+            "ask": 0.60178,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.000140000000000029
+            "spread": 0.00015999999999993797
           },
           "symbol_info": {
             "digits": 5,
@@ -9196,22 +9192,22 @@
             "currency_profit": "USD"
           },
           "technical_indicators": {
-            "ema_9": 0.600719039932855,
-            "ema_21": 0.6005409825558756,
-            "ema_spread": 0.00017805737697940138,
-            "rsi_7": 75.33645257477146,
-            "cci_14": 107.90903602332078,
+            "ema_9": 0.600841231946284,
+            "ema_21": 0.6006127114144324,
+            "ema_spread": 0.00022852053185162813,
+            "rsi_7": 79.84490744639842,
+            "cci_14": 136.99100148892344,
             "vwap": {
-              "current_vwap": 0.6001534340208472,
-              "vwap_deviation": 0.0009665659791527892,
+              "current_vwap": 0.6001803483633497,
+              "vwap_deviation": 0.0011496516366503728,
               "price_above_vwap": true,
-              "deviation_percentage": 0.1610531448061687
+              "deviation_percentage": 0.19155102958392314
             },
             "micro_trend": {
               "direction": "BULLISH",
               "ema_cross_signal": null,
-              "price_vs_ema9": 0.000400960067144962,
-              "price_vs_ema21": 0.0005790174441243634
+              "price_vs_ema9": 0.0004887680537160044,
+              "price_vs_ema21": 0.0007172885855676325
             },
             "scalping_conditions": {
               "rsi_oversold": false,
@@ -9223,8 +9219,8 @@
               "ema_cross_signal": null
             },
             "scalping_alerts": [],
-            "current_price": 0.60112,
-            "current_volume": 171.0
+            "current_price": 0.60133,
+            "current_volume": 162.0
           },
           "candles_analyzed": 20736
         }
@@ -9232,14 +9228,14 @@
       "group_5_reversal_divergence": {
         "H4": {
           "symbol": "NZDUSD",
-          "timestamp": "2025-06-04T11:42:04.039900",
+          "timestamp": "2025-06-04T11:47:06.335116",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 0.60147,
-            "ask": 0.60161,
+            "bid": 0.60162,
+            "ask": 0.60178,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.000140000000000029
+            "spread": 0.00015999999999993797
           },
           "symbol_info": {
             "digits": 5,
@@ -9410,14 +9406,14 @@
         },
         "H1": {
           "symbol": "NZDUSD",
-          "timestamp": "2025-06-04T11:42:04.049080",
+          "timestamp": "2025-06-04T11:47:06.341755",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 0.60147,
-            "ask": 0.60161,
+            "bid": 0.60162,
+            "ask": 0.60178,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.000140000000000029
+            "spread": 0.00015999999999993797
           },
           "symbol_info": {
             "digits": 5,
@@ -9601,11 +9597,11 @@
       "group_1_trend_momentum": {
         "EURUSD": {
           "symbol": "EURUSD",
-          "timestamp": "2025-06-04T11:42:03.041846",
+          "timestamp": "2025-06-04T11:47:05.454281",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 1.13839,
-            "ask": 1.13852,
+            "bid": 1.13822,
+            "ask": 1.13835,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -9634,11 +9630,11 @@
         },
         "GBPUSD": {
           "symbol": "GBPUSD",
-          "timestamp": "2025-06-04T11:42:03.043806",
+          "timestamp": "2025-06-04T11:47:05.456778",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 1.35213,
-            "ask": 1.35226,
+            "bid": 1.35176,
+            "ask": 1.35189,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -9667,11 +9663,11 @@
         },
         "USDJPY": {
           "symbol": "USDJPY",
-          "timestamp": "2025-06-04T11:42:03.045740",
+          "timestamp": "2025-06-04T11:47:05.459789",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 144.248,
-            "ask": 144.263,
+            "bid": 144.272,
+            "ask": 144.287,
             "last": 0.0,
             "volume": 0,
             "spread": 0.01500000000001478
@@ -9700,14 +9696,14 @@
         },
         "AUDUSD": {
           "symbol": "AUDUSD",
-          "timestamp": "2025-06-04T11:42:03.048894",
+          "timestamp": "2025-06-04T11:47:05.468495",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 0.64824,
-            "ask": 0.64838,
+            "bid": 0.64855,
+            "ask": 0.64869,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013999999999991797
+            "spread": 0.000140000000000029
           },
           "symbol_info": {
             "digits": 5,
@@ -9733,11 +9729,11 @@
         },
         "USDCAD": {
           "symbol": "USDCAD",
-          "timestamp": "2025-06-04T11:42:03.056704",
+          "timestamp": "2025-06-04T11:47:05.470911",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 1.37043,
-            "ask": 1.37056,
+            "bid": 1.37052,
+            "ask": 1.37065,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -9766,14 +9762,14 @@
         },
         "NZDUSD": {
           "symbol": "NZDUSD",
-          "timestamp": "2025-06-04T11:42:03.058394",
+          "timestamp": "2025-06-04T11:47:05.472848",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 0.60147,
-            "ask": 0.60161,
+            "bid": 0.60161,
+            "ask": 0.60177,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.000140000000000029
+            "spread": 0.000160000000000049
           },
           "symbol_info": {
             "digits": 5,
@@ -9801,11 +9797,11 @@
       "group_3_price_action": {
         "EURUSD": {
           "symbol": "EURUSD",
-          "timestamp": "2025-06-04T11:42:03.279207",
+          "timestamp": "2025-06-04T11:47:05.685926",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 1.13835,
-            "ask": 1.13848,
+            "bid": 1.13822,
+            "ask": 1.13835,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -9847,11 +9843,11 @@
         },
         "GBPUSD": {
           "symbol": "GBPUSD",
-          "timestamp": "2025-06-04T11:42:03.286908",
+          "timestamp": "2025-06-04T11:47:05.693182",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 1.3521,
-            "ask": 1.35223,
+            "bid": 1.35176,
+            "ask": 1.35189,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -9893,11 +9889,11 @@
         },
         "USDJPY": {
           "symbol": "USDJPY",
-          "timestamp": "2025-06-04T11:42:03.294868",
+          "timestamp": "2025-06-04T11:47:05.701415",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 144.249,
-            "ask": 144.264,
+            "bid": 144.272,
+            "ask": 144.287,
             "last": 0.0,
             "volume": 0,
             "spread": 0.01500000000001478
@@ -9939,14 +9935,14 @@
         },
         "AUDUSD": {
           "symbol": "AUDUSD",
-          "timestamp": "2025-06-04T11:42:03.306670",
+          "timestamp": "2025-06-04T11:47:05.713519",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 0.64824,
-            "ask": 0.64838,
+            "bid": 0.64855,
+            "ask": 0.64869,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013999999999991797
+            "spread": 0.000140000000000029
           },
           "symbol_info": {
             "digits": 5,
@@ -9985,11 +9981,11 @@
         },
         "USDCAD": {
           "symbol": "USDCAD",
-          "timestamp": "2025-06-04T11:42:03.317980",
+          "timestamp": "2025-06-04T11:47:05.720412",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 1.37043,
-            "ask": 1.37056,
+            "bid": 1.37052,
+            "ask": 1.37065,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -10031,14 +10027,14 @@
         },
         "NZDUSD": {
           "symbol": "NZDUSD",
-          "timestamp": "2025-06-04T11:42:03.338851",
+          "timestamp": "2025-06-04T11:47:05.726738",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 0.60147,
-            "ask": 0.60161,
+            "bid": 0.60161,
+            "ask": 0.60177,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.000140000000000029
+            "spread": 0.000160000000000049
           },
           "symbol_info": {
             "digits": 5,
@@ -10079,14 +10075,14 @@
       "group_5_reversal_divergence": {
         "EURUSD": {
           "symbol": "EURUSD",
-          "timestamp": "2025-06-04T11:42:03.969188",
+          "timestamp": "2025-06-04T11:47:06.275191",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 1.13834,
-            "ask": 1.13847,
+            "bid": 1.13822,
+            "ask": 1.13835,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013000000000018552
+            "spread": 0.00012999999999996348
           },
           "symbol_info": {
             "digits": 5,
@@ -10279,14 +10275,14 @@
         },
         "GBPUSD": {
           "symbol": "GBPUSD",
-          "timestamp": "2025-06-04T11:42:03.977877",
+          "timestamp": "2025-06-04T11:47:06.284431",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 1.3520699999999999,
-            "ask": 1.3522,
+            "bid": 1.35176,
+            "ask": 1.35189,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013000000000018552
+            "spread": 0.00012999999999996348
           },
           "symbol_info": {
             "digits": 5,
@@ -10458,11 +10454,11 @@
         },
         "USDJPY": {
           "symbol": "USDJPY",
-          "timestamp": "2025-06-04T11:42:03.992007",
+          "timestamp": "2025-06-04T11:47:06.300238",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 144.249,
-            "ask": 144.264,
+            "bid": 144.272,
+            "ask": 144.287,
             "last": 0.0,
             "volume": 0,
             "spread": 0.01500000000001478
@@ -10739,14 +10735,14 @@
         },
         "AUDUSD": {
           "symbol": "AUDUSD",
-          "timestamp": "2025-06-04T11:42:04.009845",
+          "timestamp": "2025-06-04T11:47:06.314082",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 0.64824,
-            "ask": 0.64838,
+            "bid": 0.64855,
+            "ask": 0.64869,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013999999999991797
+            "spread": 0.000140000000000029
           },
           "symbol_info": {
             "digits": 5,
@@ -10939,14 +10935,14 @@
         },
         "USDCAD": {
           "symbol": "USDCAD",
-          "timestamp": "2025-06-04T11:42:04.028192",
+          "timestamp": "2025-06-04T11:47:06.324242",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 1.3704399999999999,
-            "ask": 1.37057,
+            "bid": 1.37052,
+            "ask": 1.37065,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013000000000018552
+            "spread": 0.00012999999999996348
           },
           "symbol_info": {
             "digits": 5,
@@ -11094,14 +11090,14 @@
         },
         "NZDUSD": {
           "symbol": "NZDUSD",
-          "timestamp": "2025-06-04T11:42:04.039900",
+          "timestamp": "2025-06-04T11:47:06.335116",
           "timeframe": "H4",
           "current_tick": {
-            "bid": 0.60147,
-            "ask": 0.60161,
+            "bid": 0.60162,
+            "ask": 0.60178,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.000140000000000029
+            "spread": 0.00015999999999993797
           },
           "symbol_info": {
             "digits": 5,
@@ -11276,11 +11272,11 @@
       "group_2_volatility_breakout": {
         "EURUSD": {
           "symbol": "EURUSD",
-          "timestamp": "2025-06-04T11:42:03.066923",
+          "timestamp": "2025-06-04T11:47:05.483291",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 1.13839,
-            "ask": 1.13852,
+            "bid": 1.13822,
+            "ask": 1.13835,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -11322,11 +11318,11 @@
         },
         "GBPUSD": {
           "symbol": "GBPUSD",
-          "timestamp": "2025-06-04T11:42:03.100823",
+          "timestamp": "2025-06-04T11:47:05.517837",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 1.35213,
-            "ask": 1.35226,
+            "bid": 1.35176,
+            "ask": 1.35189,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -11368,11 +11364,11 @@
         },
         "USDJPY": {
           "symbol": "USDJPY",
-          "timestamp": "2025-06-04T11:42:03.134289",
+          "timestamp": "2025-06-04T11:47:05.554620",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 144.248,
-            "ask": 144.263,
+            "bid": 144.272,
+            "ask": 144.287,
             "last": 0.0,
             "volume": 0,
             "spread": 0.01500000000001478
@@ -11414,14 +11410,14 @@
         },
         "AUDUSD": {
           "symbol": "AUDUSD",
-          "timestamp": "2025-06-04T11:42:03.163841",
+          "timestamp": "2025-06-04T11:47:05.589442",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 0.64824,
-            "ask": 0.64838,
+            "bid": 0.64855,
+            "ask": 0.64869,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013999999999991797
+            "spread": 0.000140000000000029
           },
           "symbol_info": {
             "digits": 5,
@@ -11460,11 +11456,11 @@
         },
         "USDCAD": {
           "symbol": "USDCAD",
-          "timestamp": "2025-06-04T11:42:03.193600",
+          "timestamp": "2025-06-04T11:47:05.620359",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 1.37043,
-            "ask": 1.37056,
+            "bid": 1.37052,
+            "ask": 1.37065,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -11506,14 +11502,14 @@
         },
         "NZDUSD": {
           "symbol": "NZDUSD",
-          "timestamp": "2025-06-04T11:42:03.228821",
+          "timestamp": "2025-06-04T11:47:05.652987",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 0.60147,
-            "ask": 0.60161,
+            "bid": 0.60161,
+            "ask": 0.60177,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.000140000000000029
+            "spread": 0.000160000000000049
           },
           "symbol_info": {
             "digits": 5,
@@ -11554,11 +11550,11 @@
       "group_3_price_action": {
         "EURUSD": {
           "symbol": "EURUSD",
-          "timestamp": "2025-06-04T11:42:03.284967",
+          "timestamp": "2025-06-04T11:47:05.691344",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 1.13835,
-            "ask": 1.13848,
+            "bid": 1.13822,
+            "ask": 1.13835,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -11600,11 +11596,11 @@
         },
         "GBPUSD": {
           "symbol": "GBPUSD",
-          "timestamp": "2025-06-04T11:42:03.292339",
+          "timestamp": "2025-06-04T11:47:05.698711",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 1.3521,
-            "ask": 1.35223,
+            "bid": 1.35176,
+            "ask": 1.35189,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -11646,11 +11642,11 @@
         },
         "USDJPY": {
           "symbol": "USDJPY",
-          "timestamp": "2025-06-04T11:42:03.301142",
+          "timestamp": "2025-06-04T11:47:05.710938",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 144.249,
-            "ask": 144.264,
+            "bid": 144.272,
+            "ask": 144.287,
             "last": 0.0,
             "volume": 0,
             "spread": 0.01500000000001478
@@ -11692,14 +11688,14 @@
         },
         "AUDUSD": {
           "symbol": "AUDUSD",
-          "timestamp": "2025-06-04T11:42:03.315290",
+          "timestamp": "2025-06-04T11:47:05.718741",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 0.64824,
-            "ask": 0.64838,
+            "bid": 0.64855,
+            "ask": 0.64869,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013999999999991797
+            "spread": 0.000140000000000029
           },
           "symbol_info": {
             "digits": 5,
@@ -11738,14 +11734,14 @@
         },
         "USDCAD": {
           "symbol": "USDCAD",
-          "timestamp": "2025-06-04T11:42:03.326873",
+          "timestamp": "2025-06-04T11:47:05.725158",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 1.3704399999999999,
-            "ask": 1.37057,
+            "bid": 1.37052,
+            "ask": 1.37065,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013000000000018552
+            "spread": 0.00012999999999996348
           },
           "symbol_info": {
             "digits": 5,
@@ -11784,14 +11780,14 @@
         },
         "NZDUSD": {
           "symbol": "NZDUSD",
-          "timestamp": "2025-06-04T11:42:03.346047",
+          "timestamp": "2025-06-04T11:47:05.732570",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 0.60147,
-            "ask": 0.60161,
+            "bid": 0.60161,
+            "ask": 0.60177,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.000140000000000029
+            "spread": 0.000160000000000049
           },
           "symbol_info": {
             "digits": 5,
@@ -11832,14 +11828,14 @@
       "group_5_reversal_divergence": {
         "EURUSD": {
           "symbol": "EURUSD",
-          "timestamp": "2025-06-04T11:42:03.975686",
+          "timestamp": "2025-06-04T11:47:06.282326",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 1.13834,
-            "ask": 1.13847,
+            "bid": 1.13822,
+            "ask": 1.13835,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013000000000018552
+            "spread": 0.00012999999999996348
           },
           "symbol_info": {
             "digits": 5,
@@ -12112,14 +12108,14 @@
         },
         "GBPUSD": {
           "symbol": "GBPUSD",
-          "timestamp": "2025-06-04T11:42:03.986240",
+          "timestamp": "2025-06-04T11:47:06.293242",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 1.3520699999999999,
-            "ask": 1.3522,
+            "bid": 1.35176,
+            "ask": 1.35189,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013000000000018552
+            "spread": 0.00012999999999996348
           },
           "symbol_info": {
             "digits": 5,
@@ -12372,11 +12368,11 @@
         },
         "USDJPY": {
           "symbol": "USDJPY",
-          "timestamp": "2025-06-04T11:42:04.004289",
+          "timestamp": "2025-06-04T11:47:06.309848",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 144.249,
-            "ask": 144.264,
+            "bid": 144.272,
+            "ask": 144.287,
             "last": 0.0,
             "volume": 0,
             "spread": 0.01500000000001478
@@ -12632,14 +12628,14 @@
         },
         "AUDUSD": {
           "symbol": "AUDUSD",
-          "timestamp": "2025-06-04T11:42:04.022463",
+          "timestamp": "2025-06-04T11:47:06.321544",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 0.64824,
-            "ask": 0.64838,
+            "bid": 0.64855,
+            "ask": 0.64869,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013999999999991797
+            "spread": 0.000140000000000029
           },
           "symbol_info": {
             "digits": 5,
@@ -12892,14 +12888,14 @@
         },
         "USDCAD": {
           "symbol": "USDCAD",
-          "timestamp": "2025-06-04T11:42:04.035926",
+          "timestamp": "2025-06-04T11:47:06.330884",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 1.3704399999999999,
-            "ask": 1.37057,
+            "bid": 1.37052,
+            "ask": 1.37065,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013000000000018552
+            "spread": 0.00012999999999996348
           },
           "symbol_info": {
             "digits": 5,
@@ -13193,14 +13189,14 @@
         },
         "NZDUSD": {
           "symbol": "NZDUSD",
-          "timestamp": "2025-06-04T11:42:04.049080",
+          "timestamp": "2025-06-04T11:47:06.341755",
           "timeframe": "H1",
           "current_tick": {
-            "bid": 0.60147,
-            "ask": 0.60161,
+            "bid": 0.60162,
+            "ask": 0.60178,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.000140000000000029
+            "spread": 0.00015999999999993797
           },
           "symbol_info": {
             "digits": 5,
@@ -13375,11 +13371,11 @@
       "group_2_volatility_breakout": {
         "EURUSD": {
           "symbol": "EURUSD",
-          "timestamp": "2025-06-04T11:42:03.094014",
+          "timestamp": "2025-06-04T11:47:05.508470",
           "timeframe": "M15",
           "current_tick": {
-            "bid": 1.13839,
-            "ask": 1.13852,
+            "bid": 1.13822,
+            "ask": 1.13835,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -13392,40 +13388,40 @@
           },
           "technical_indicators": {
             "bollinger_bands": {
-              "upper": 1.1398307200637372,
-              "middle": 1.137699500000004,
-              "lower": 1.135568279936271,
-              "width": 0.004262440127466238
+              "upper": 1.1401404074920525,
+              "middle": 1.137858000000004,
+              "lower": 1.1355755925079556,
+              "width": 0.004564814984096888
             },
             "keltner_channels": {
-              "upper": 1.1396323892622144,
-              "middle": 1.1381531057708087,
-              "lower": 1.136673822279403,
-              "width": 0.0029585669828113836
+              "upper": 1.1397708435856624,
+              "middle": 1.138318524268827,
+              "lower": 1.1368662049519915,
+              "width": 0.002904638633670853
             },
             "squeeze_analysis": {
               "squeeze_detected": false,
-              "bb_width": 0.004262440127466238,
-              "kc_width": 0.0029585669828113836
+              "bb_width": 0.004564814984096888,
+              "kc_width": 0.002904638633670853
             },
-            "atr": 0.0007695842222361632,
+            "atr": 0.0007481853492192923,
             "macd": {
-              "macd_line": 0.00045717670736888927,
-              "signal_line": 0.00018433507297558593,
-              "histogram": 0.0002728416343933033
+              "macd_line": 0.0005351301898623984,
+              "signal_line": 0.0002544940963529484,
+              "histogram": 0.0002806360935094499
             },
-            "current_price": 1.13997,
-            "current_volume": 742.0
+            "current_price": 1.13989,
+            "current_volume": 719.0
           },
           "candles_analyzed": 6912
         },
         "GBPUSD": {
           "symbol": "GBPUSD",
-          "timestamp": "2025-06-04T11:42:03.127504",
+          "timestamp": "2025-06-04T11:47:05.542239",
           "timeframe": "M15",
           "current_tick": {
-            "bid": 1.35213,
-            "ask": 1.35226,
+            "bid": 1.35176,
+            "ask": 1.35189,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -13438,40 +13434,40 @@
           },
           "technical_indicators": {
             "bollinger_bands": {
-              "upper": 1.3541428305757381,
-              "middle": 1.3521914999999969,
-              "lower": 1.3502401694242556,
-              "width": 0.0039026611514825227
+              "upper": 1.354382874638499,
+              "middle": 1.3523089999999967,
+              "lower": 1.3502351253614944,
+              "width": 0.004147749277004564
             },
             "keltner_channels": {
-              "upper": 1.354280421865706,
-              "middle": 1.3525987973415274,
-              "lower": 1.3509171728173488,
-              "width": 0.0033632490483572752
+              "upper": 1.3543980266069708,
+              "middle": 1.352727483309001,
+              "lower": 1.3510569400110313,
+              "width": 0.0033410865959395686
             },
             "squeeze_analysis": {
               "squeeze_detected": false,
-              "bb_width": 0.0039026611514825227,
-              "kc_width": 0.0033632490483572752
+              "bb_width": 0.004147749277004564,
+              "kc_width": 0.0033410865959395686
             },
-            "atr": 0.0008871519171315659,
+            "atr": 0.0008759267801936053,
             "macd": {
-              "macd_line": 0.00034155997297991014,
-              "signal_line": 0.00012506416236742778,
-              "histogram": 0.00021649581061248236
+              "macd_line": 0.00040407027432043385,
+              "signal_line": 0.00018086538475802898,
+              "histogram": 0.00022320488956240487
             },
-            "current_price": 1.35379,
-            "current_volume": 949.0
+            "current_price": 1.35395,
+            "current_volume": 798.0
           },
           "candles_analyzed": 6912
         },
         "USDJPY": {
           "symbol": "USDJPY",
-          "timestamp": "2025-06-04T11:42:03.156799",
+          "timestamp": "2025-06-04T11:47:05.577421",
           "timeframe": "M15",
           "current_tick": {
-            "bid": 144.248,
-            "ask": 144.263,
+            "bid": 144.272,
+            "ask": 144.287,
             "last": 0.0,
             "volume": 0,
             "spread": 0.01500000000001478
@@ -13484,43 +13480,43 @@
           },
           "technical_indicators": {
             "bollinger_bands": {
-              "upper": 144.30822199279677,
-              "middle": 144.05294999999978,
-              "lower": 143.7976780072028,
-              "width": 0.5105439855939835
+              "upper": 144.30999734094263,
+              "middle": 144.0444499999998,
+              "lower": 143.778902659057,
+              "width": 0.5310946818856337
             },
             "keltner_channels": {
-              "upper": 144.26689812481996,
-              "middle": 143.9991876973711,
-              "lower": 143.73147726992224,
-              "width": 0.5354208548977226
+              "upper": 144.2514375846503,
+              "middle": 143.98831267857386,
+              "lower": 143.72518777249743,
+              "width": 0.5262498121528552
             },
             "squeeze_analysis": {
-              "squeeze_detected": true,
-              "bb_width": 0.5105439855939835,
-              "kc_width": 0.5354208548977226
+              "squeeze_detected": false,
+              "bb_width": 0.5310946818856337,
+              "kc_width": 0.5262498121528552
             },
-            "atr": 0.13743434977709995,
+            "atr": 0.13390332479302094,
             "macd": {
-              "macd_line": -0.002527029293588612,
-              "signal_line": 0.013009864064202343,
-              "histogram": -0.015536893357790954
+              "macd_line": -0.010930485313963345,
+              "signal_line": 0.008221794188569205,
+              "histogram": -0.01915227950253255
             },
-            "current_price": 143.902,
-            "current_volume": 835.0
+            "current_price": 143.885,
+            "current_volume": 922.0
           },
           "candles_analyzed": 6912
         },
         "AUDUSD": {
           "symbol": "AUDUSD",
-          "timestamp": "2025-06-04T11:42:03.187054",
+          "timestamp": "2025-06-04T11:47:05.614016",
           "timeframe": "M15",
           "current_tick": {
-            "bid": 0.64824,
-            "ask": 0.64838,
+            "bid": 0.64855,
+            "ask": 0.64869,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013999999999991797
+            "spread": 0.000140000000000029
           },
           "symbol_info": {
             "digits": 5,
@@ -13530,40 +13526,40 @@
           },
           "technical_indicators": {
             "bollinger_bands": {
-              "upper": 0.6471808866981302,
-              "middle": 0.6461879999999993,
-              "lower": 0.6451951133018684,
-              "width": 0.001985773396261825
+              "upper": 0.6473683159834547,
+              "middle": 0.6462434999999991,
+              "lower": 0.6451186840165435,
+              "width": 0.002249631966911192
             },
             "keltner_channels": {
-              "upper": 0.6475135636018877,
-              "middle": 0.6463737877376203,
-              "lower": 0.6452340118733529,
-              "width": 0.002279551728534779
+              "upper": 0.6475803093098533,
+              "middle": 0.6464715222387993,
+              "lower": 0.6453627351677453,
+              "width": 0.002217574142107992
             },
             "squeeze_analysis": {
-              "squeeze_detected": true,
-              "bb_width": 0.001985773396261825,
-              "kc_width": 0.002279551728534779
+              "squeeze_detected": false,
+              "bb_width": 0.002249631966911192,
+              "kc_width": 0.002217574142107992
             },
-            "atr": 0.0005806063397137112,
+            "atr": 0.0005577058868770202,
             "macd": {
-              "macd_line": 0.0001649976202839909,
-              "signal_line": 3.711599430280361e-05,
-              "histogram": 0.00012788162598118729
+              "macd_line": 0.00022468134742958945,
+              "signal_line": 7.462906492816078e-05,
+              "histogram": 0.00015005228250142868
             },
-            "current_price": 0.6473,
-            "current_volume": 580.0
+            "current_price": 0.6474,
+            "current_volume": 496.0
           },
           "candles_analyzed": 6912
         },
         "USDCAD": {
           "symbol": "USDCAD",
-          "timestamp": "2025-06-04T11:42:03.220474",
+          "timestamp": "2025-06-04T11:47:05.646296",
           "timeframe": "M15",
           "current_tick": {
-            "bid": 1.37043,
-            "ask": 1.37056,
+            "bid": 1.37052,
+            "ask": 1.37065,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -13576,43 +13572,43 @@
           },
           "technical_indicators": {
             "bollinger_bands": {
-              "upper": 1.3728363362130938,
-              "middle": 1.3719320000000015,
-              "lower": 1.3710276637869092,
-              "width": 0.0018086724261845433
+              "upper": 1.3729025657805176,
+              "middle": 1.3718765000000013,
+              "lower": 1.370850434219485,
+              "width": 0.0020521315610326774
             },
             "keltner_channels": {
-              "upper": 1.3728136362194288,
-              "middle": 1.3717654036268336,
-              "lower": 1.3707171710342385,
-              "width": 0.002096465185190244
+              "upper": 1.3727051861491482,
+              "middle": 1.3716753651861828,
+              "lower": 1.3706455442232175,
+              "width": 0.0020596419259306664
             },
             "squeeze_analysis": {
               "squeeze_detected": true,
-              "bb_width": 0.0018086724261845433,
-              "kc_width": 0.002096465185190244
+              "bb_width": 0.0020521315610326774,
+              "kc_width": 0.0020596419259306664
             },
-            "atr": 0.0005370826597700045,
+            "atr": 0.0005230053269292904,
             "macd": {
-              "macd_line": -0.00010794440849570819,
-              "signal_line": 1.5161747793158754e-05,
-              "histogram": -0.00012310615628886694
+              "macd_line": -0.00016841909354936568,
+              "signal_line": -2.1554420475346135e-05,
+              "histogram": -0.00014686467307401956
             },
-            "current_price": 1.37093,
-            "current_volume": 454.0
+            "current_price": 1.37082,
+            "current_volume": 552.0
           },
           "candles_analyzed": 6912
         },
         "NZDUSD": {
           "symbol": "NZDUSD",
-          "timestamp": "2025-06-04T11:42:03.262684",
+          "timestamp": "2025-06-04T11:47:05.678585",
           "timeframe": "M15",
           "current_tick": {
-            "bid": 0.60147,
-            "ask": 0.60161,
+            "bid": 0.60161,
+            "ask": 0.60177,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.000140000000000029
+            "spread": 0.000160000000000049
           },
           "symbol_info": {
             "digits": 5,
@@ -13622,30 +13618,30 @@
           },
           "technical_indicators": {
             "bollinger_bands": {
-              "upper": 0.6010206269569367,
-              "middle": 0.6001630000000003,
-              "lower": 0.599305373043064,
-              "width": 0.0017152539138727274
+              "upper": 0.6011963208622498,
+              "middle": 0.6002195000000003,
+              "lower": 0.5992426791377509,
+              "width": 0.0019536417244989668
             },
             "keltner_channels": {
-              "upper": 0.6013886815660614,
-              "middle": 0.6003175795516238,
-              "lower": 0.5992464775371862,
-              "width": 0.0021422040288752164
+              "upper": 0.6014699760318515,
+              "middle": 0.6004054291181358,
+              "lower": 0.5993408822044201,
+              "width": 0.0021290938274314275
             },
             "squeeze_analysis": {
               "squeeze_detected": true,
-              "bb_width": 0.0017152539138727274,
-              "kc_width": 0.0021422040288752164
+              "bb_width": 0.0019536417244989668,
+              "kc_width": 0.0021290938274314275
             },
-            "atr": 0.0005485026746820387,
+            "atr": 0.0005428953407761768,
             "macd": {
-              "macd_line": 0.00016007722583277761,
-              "signal_line": 7.018469793336683e-05,
-              "histogram": 8.989252789941079e-05
+              "macd_line": 0.000212684861144119,
+              "signal_line": 9.868473057551726e-05,
+              "histogram": 0.00011400013056860174
             },
-            "current_price": 0.60112,
-            "current_volume": 474.0
+            "current_price": 0.60124,
+            "current_volume": 468.0
           },
           "candles_analyzed": 6912
         }
@@ -13653,11 +13649,11 @@
       "group_4_scalping": {
         "EURUSD": {
           "symbol": "EURUSD",
-          "timestamp": "2025-06-04T11:42:03.382843",
+          "timestamp": "2025-06-04T11:47:05.765038",
           "timeframe": "M15",
           "current_tick": {
-            "bid": 1.13835,
-            "ask": 1.13848,
+            "bid": 1.13822,
+            "ask": 1.13835,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -13669,22 +13665,22 @@
             "currency_profit": "USD"
           },
           "technical_indicators": {
-            "ema_9": 1.1387104830119958,
-            "ema_21": 1.1381274815533935,
-            "ema_spread": 0.0005830014586023502,
-            "rsi_7": 77.07044663687964,
-            "cci_14": 116.45454545455995,
+            "ema_9": 1.1389463864095968,
+            "ema_21": 1.138287710503085,
+            "ema_spread": 0.0006586759065116965,
+            "rsi_7": 74.9634508752981,
+            "cci_14": 119.30283224400956,
             "vwap": {
-              "current_vwap": 1.137790861559472,
-              "vwap_deviation": 0.0021791384405278613,
+              "current_vwap": 1.1378502013910514,
+              "vwap_deviation": 0.002039798608948651,
               "price_above_vwap": true,
-              "deviation_percentage": 0.19152363708925413
+              "deviation_percentage": 0.17926776358214325
             },
             "micro_trend": {
               "direction": "BULLISH",
               "ema_cross_signal": null,
-              "price_vs_ema9": 0.0012595169880040835,
-              "price_vs_ema21": 0.0018425184466064337
+              "price_vs_ema9": 0.0009436135904032916,
+              "price_vs_ema21": 0.0016022894969149881
             },
             "scalping_conditions": {
               "rsi_oversold": false,
@@ -13696,18 +13692,18 @@
               "ema_cross_signal": null
             },
             "scalping_alerts": [],
-            "current_price": 1.13997,
-            "current_volume": 742.0
+            "current_price": 1.13989,
+            "current_volume": 719.0
           },
           "candles_analyzed": 6912
         },
         "GBPUSD": {
           "symbol": "GBPUSD",
-          "timestamp": "2025-06-04T11:42:03.488509",
+          "timestamp": "2025-06-04T11:47:05.851988",
           "timeframe": "M15",
           "current_tick": {
-            "bid": 1.3521,
-            "ask": 1.35223,
+            "bid": 1.35176,
+            "ask": 1.35189,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -13719,22 +13715,22 @@
             "currency_profit": "USD"
           },
           "technical_indicators": {
-            "ema_9": 1.3530210002269722,
-            "ema_21": 1.3525801306335048,
-            "ema_spread": 0.00044086959346745225,
-            "rsi_7": 67.33200646753046,
-            "cci_14": 107.94550860936064,
+            "ema_9": 1.3532068001815778,
+            "ema_21": 1.352704664212277,
+            "ema_spread": 0.0005021359693007099,
+            "rsi_7": 69.07146453762931,
+            "cci_14": 107.04279539230697,
             "vwap": {
-              "current_vwap": 1.3523979250095965,
-              "vwap_deviation": 0.0013920749904035024,
+              "current_vwap": 1.352451078174632,
+              "vwap_deviation": 0.001498921825368038,
               "price_above_vwap": true,
-              "deviation_percentage": 0.10293383069140868
+              "deviation_percentage": 0.11083002184382847
             },
             "micro_trend": {
               "direction": "BULLISH",
               "ema_cross_signal": null,
-              "price_vs_ema9": 0.0007689997730278009,
-              "price_vs_ema21": 0.0012098693664952531
+              "price_vs_ema9": 0.0007431998184221911,
+              "price_vs_ema21": 0.001245335787722901
             },
             "scalping_conditions": {
               "rsi_oversold": false,
@@ -13746,18 +13742,18 @@
               "ema_cross_signal": null
             },
             "scalping_alerts": [],
-            "current_price": 1.35379,
-            "current_volume": 949.0
+            "current_price": 1.35395,
+            "current_volume": 798.0
           },
           "candles_analyzed": 6912
         },
         "USDJPY": {
           "symbol": "USDJPY",
-          "timestamp": "2025-06-04T11:42:03.605590",
+          "timestamp": "2025-06-04T11:47:05.937260",
           "timeframe": "M15",
           "current_tick": {
-            "bid": 144.249,
-            "ask": 144.264,
+            "bid": 144.272,
+            "ask": 144.287,
             "last": 0.0,
             "volume": 0,
             "spread": 0.01500000000001478
@@ -13769,22 +13765,22 @@
             "currency_profit": "JPY"
           },
           "technical_indicators": {
-            "ema_9": 143.98507350923956,
-            "ema_21": 143.9989309106392,
-            "ema_spread": -0.013857401399633318,
-            "rsi_7": 39.87977810555035,
-            "cci_14": -56.95681836422886,
+            "ema_9": 143.96505880739164,
+            "ema_21": 143.98857355512652,
+            "ema_spread": -0.023514747734878938,
+            "rsi_7": 38.4503074424599,
+            "cci_14": -79.80470483799034,
             "vwap": {
-              "current_vwap": 143.97538521553054,
-              "vwap_deviation": -0.07338521553054989,
+              "current_vwap": 143.97306209174553,
+              "vwap_deviation": -0.08806209174554169,
               "price_above_vwap": false,
-              "deviation_percentage": -0.05097066795181172
+              "deviation_percentage": -0.061165672568264835
             },
             "micro_trend": {
               "direction": "BEARISH",
               "ema_cross_signal": null,
-              "price_vs_ema9": -0.08307350923956847,
-              "price_vs_ema21": -0.09693091063920178
+              "price_vs_ema9": -0.0800588073916515,
+              "price_vs_ema21": -0.10357355512653044
             },
             "scalping_conditions": {
               "rsi_oversold": false,
@@ -13796,21 +13792,21 @@
               "ema_cross_signal": null
             },
             "scalping_alerts": [],
-            "current_price": 143.902,
-            "current_volume": 835.0
+            "current_price": 143.885,
+            "current_volume": 922.0
           },
           "candles_analyzed": 6912
         },
         "AUDUSD": {
           "symbol": "AUDUSD",
-          "timestamp": "2025-06-04T11:42:03.710881",
+          "timestamp": "2025-06-04T11:47:06.021593",
           "timeframe": "M15",
           "current_tick": {
-            "bid": 0.64824,
-            "ask": 0.64838,
+            "bid": 0.64855,
+            "ask": 0.64869,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013999999999991797
+            "spread": 0.000140000000000029
           },
           "symbol_info": {
             "digits": 5,
@@ -13819,22 +13815,22 @@
             "currency_profit": "USD"
           },
           "technical_indicators": {
-            "ema_9": 0.6465921982177665,
-            "ema_21": 0.6463651796765888,
-            "ema_spread": 0.0002270185411776815,
-            "rsi_7": 70.04075705838292,
-            "cci_14": 149.6814127070751,
+            "ema_9": 0.6467537585742131,
+            "ema_21": 0.6464592542514443,
+            "ema_spread": 0.0002945043227687849,
+            "rsi_7": 71.42887141212478,
+            "cci_14": 152.07678384301468,
             "vwap": {
-              "current_vwap": 0.6462729646455821,
-              "vwap_deviation": 0.0010270353544178379,
+              "current_vwap": 0.646296499096152,
+              "vwap_deviation": 0.0011035009038479204,
               "price_above_vwap": true,
-              "deviation_percentage": 0.15891665141540726
+              "deviation_percentage": 0.17074220661742254
             },
             "micro_trend": {
               "direction": "BULLISH",
               "ema_cross_signal": null,
-              "price_vs_ema9": 0.0007078017822335081,
-              "price_vs_ema21": 0.0009348203234111896
+              "price_vs_ema9": 0.0006462414257868421,
+              "price_vs_ema21": 0.000940745748555627
             },
             "scalping_conditions": {
               "rsi_oversold": false,
@@ -13846,21 +13842,21 @@
               "ema_cross_signal": null
             },
             "scalping_alerts": [],
-            "current_price": 0.6473,
-            "current_volume": 580.0
+            "current_price": 0.6474,
+            "current_volume": 496.0
           },
           "candles_analyzed": 6912
         },
         "USDCAD": {
           "symbol": "USDCAD",
-          "timestamp": "2025-06-04T11:42:03.798090",
+          "timestamp": "2025-06-04T11:47:06.107608",
           "timeframe": "M15",
           "current_tick": {
-            "bid": 1.3704399999999999,
-            "ask": 1.37057,
+            "bid": 1.37052,
+            "ask": 1.37065,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.00013000000000018552
+            "spread": 0.00012999999999996348
           },
           "symbol_info": {
             "digits": 5,
@@ -13869,22 +13865,22 @@
             "currency_profit": "CAD"
           },
           "technical_indicators": {
-            "ema_9": 1.3715991392546805,
-            "ema_21": 1.3717701246515144,
-            "ema_spread": -0.00017098539683391145,
-            "rsi_7": 28.39308317753808,
-            "cci_14": -132.86511795424144,
+            "ema_9": 1.3714433114037443,
+            "ema_21": 1.3716837496831948,
+            "ema_spread": -0.00024043827945052776,
+            "rsi_7": 26.735888072215314,
+            "cci_14": -140.2190923317932,
             "vwap": {
-              "current_vwap": 1.371772855012507,
-              "vwap_deviation": -0.0008428550125070267,
+              "current_vwap": 1.3717484052973041,
+              "vwap_deviation": -0.0009284052973042023,
               "price_above_vwap": false,
-              "deviation_percentage": -0.06144275339952999
+              "deviation_percentage": -0.06768043569206743
             },
             "micro_trend": {
               "direction": "BEARISH",
               "ema_cross_signal": null,
-              "price_vs_ema9": -0.0006691392546804842,
-              "price_vs_ema21": -0.0008401246515143956
+              "price_vs_ema9": -0.0006233114037443865,
+              "price_vs_ema21": -0.0008637496831949143
             },
             "scalping_conditions": {
               "rsi_oversold": false,
@@ -13896,21 +13892,21 @@
               "ema_cross_signal": null
             },
             "scalping_alerts": [],
-            "current_price": 1.37093,
-            "current_volume": 454.0
+            "current_price": 1.37082,
+            "current_volume": 552.0
           },
           "candles_analyzed": 6912
         },
         "NZDUSD": {
           "symbol": "NZDUSD",
-          "timestamp": "2025-06-04T11:42:03.885286",
+          "timestamp": "2025-06-04T11:47:06.201675",
           "timeframe": "M15",
           "current_tick": {
-            "bid": 0.60147,
-            "ask": 0.60161,
+            "bid": 0.60162,
+            "ask": 0.60178,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.000140000000000029
+            "spread": 0.00015999999999993797
           },
           "symbol_info": {
             "digits": 5,
@@ -13919,22 +13915,22 @@
             "currency_profit": "USD"
           },
           "technical_indicators": {
-            "ema_9": 0.6005071180435636,
-            "ema_21": 0.60030841924226,
-            "ema_spread": 0.0001986988013036317,
-            "rsi_7": 69.087983269714,
-            "cci_14": 131.01868170601324,
+            "ema_9": 0.6006536944348508,
+            "ema_21": 0.6003931084020545,
+            "ema_spread": 0.0002605860327963283,
+            "rsi_7": 70.96637640528752,
+            "cci_14": 156.45342312007656,
             "vwap": {
-              "current_vwap": 0.6002086762688615,
-              "vwap_deviation": 0.000911323731138447,
+              "current_vwap": 0.6002417180805486,
+              "vwap_deviation": 0.0009982819194513937,
               "price_above_vwap": true,
-              "deviation_percentage": 0.151834481434624
+              "deviation_percentage": 0.16631331834843086
             },
             "micro_trend": {
               "direction": "BULLISH",
               "ema_cross_signal": null,
-              "price_vs_ema9": 0.0006128819564363841,
-              "price_vs_ema21": 0.0008115807577400158
+              "price_vs_ema9": 0.0005863055651491589,
+              "price_vs_ema21": 0.0008468915979454872
             },
             "scalping_conditions": {
               "rsi_oversold": false,
@@ -13946,8 +13942,8 @@
               "ema_cross_signal": null
             },
             "scalping_alerts": [],
-            "current_price": 0.60112,
-            "current_volume": 474.0
+            "current_price": 0.60124,
+            "current_volume": 468.0
           },
           "candles_analyzed": 6912
         }
@@ -13957,11 +13953,11 @@
       "group_4_scalping": {
         "EURUSD": {
           "symbol": "EURUSD",
-          "timestamp": "2025-06-04T11:42:03.457373",
+          "timestamp": "2025-06-04T11:47:05.830451",
           "timeframe": "M5",
           "current_tick": {
-            "bid": 1.13835,
-            "ask": 1.13848,
+            "bid": 1.13822,
+            "ask": 1.13835,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -13973,22 +13969,22 @@
             "currency_profit": "USD"
           },
           "technical_indicators": {
-            "ema_9": 1.1392384189187832,
-            "ema_21": 1.1387842014863425,
-            "ema_spread": 0.00045421743244067336,
-            "rsi_7": 83.30538362248858,
-            "cci_14": 174.97691597413385,
+            "ema_9": 1.1394227351350266,
+            "ema_21": 1.1389092740784932,
+            "ema_spread": 0.0005134610565333819,
+            "rsi_7": 85.37204641056904,
+            "cci_14": 179.46303458328586,
             "vwap": {
-              "current_vwap": 1.1376316156304773,
-              "vwap_deviation": 0.002338384369522606,
+              "current_vwap": 1.1376802845716043,
+              "vwap_deviation": 0.0024797154283957568,
               "price_above_vwap": true,
-              "deviation_percentage": 0.20554846906453714
+              "deviation_percentage": 0.2179624154539602
             },
             "micro_trend": {
               "direction": "BULLISH",
               "ema_cross_signal": null,
-              "price_vs_ema9": 0.0007315810812167367,
-              "price_vs_ema21": 0.00118579851365741
+              "price_vs_ema9": 0.000737264864973497,
+              "price_vs_ema21": 0.0012507259215068789
             },
             "scalping_conditions": {
               "rsi_oversold": false,
@@ -14000,18 +13996,18 @@
               "ema_cross_signal": null
             },
             "scalping_alerts": [],
-            "current_price": 1.13997,
-            "current_volume": 247.0
+            "current_price": 1.14016,
+            "current_volume": 226.0
           },
           "candles_analyzed": 20736
         },
         "GBPUSD": {
           "symbol": "GBPUSD",
-          "timestamp": "2025-06-04T11:42:03.579123",
+          "timestamp": "2025-06-04T11:47:05.915025",
           "timeframe": "M5",
           "current_tick": {
-            "bid": 1.3521,
-            "ask": 1.35223,
+            "bid": 1.35176,
+            "ask": 1.35189,
             "last": 0.0,
             "volume": 0,
             "spread": 0.00012999999999996348
@@ -14023,22 +14019,22 @@
             "currency_profit": "USD"
           },
           "technical_indicators": {
-            "ema_9": 1.3535201348342034,
-            "ema_21": 1.3531361209668122,
-            "ema_spread": 0.00038401386739117527,
-            "rsi_7": 59.254683022639576,
-            "cci_14": 125.74510537468805,
+            "ema_9": 1.3536601078673627,
+            "ema_21": 1.3532346554243748,
+            "ema_spread": 0.00042545244298786145,
+            "rsi_7": 65.96692677906637,
+            "cci_14": 132.92583537083672,
             "vwap": {
-              "current_vwap": 1.3521835967408489,
-              "vwap_deviation": 0.001606403259151179,
+              "current_vwap": 1.3522262454464307,
+              "vwap_deviation": 0.0019937545535693157,
               "price_above_vwap": true,
-              "deviation_percentage": 0.11880067640393453
+              "deviation_percentage": 0.1474423795783588
             },
             "micro_trend": {
               "direction": "BULLISH",
               "ema_cross_signal": null,
-              "price_vs_ema9": 0.00026986516579663444,
-              "price_vs_ema21": 0.0006538790331878097
+              "price_vs_ema9": 0.0005598921326372963,
+              "price_vs_ema21": 0.0009853445756251578
             },
             "scalping_conditions": {
               "rsi_oversold": false,
@@ -14050,18 +14046,18 @@
               "ema_cross_signal": null
             },
             "scalping_alerts": [],
-            "current_price": 1.35379,
-            "current_volume": 360.0
+            "current_price": 1.35422,
+            "current_volume": 280.0
           },
           "candles_analyzed": 20729
         },
         "USDJPY": {
           "symbol": "USDJPY",
-          "timestamp": "2025-06-04T11:42:03.677734",
+          "timestamp": "2025-06-04T11:47:05.999785",
           "timeframe": "M5",
           "current_tick": {
-            "bid": 144.249,
-            "ask": 144.264,
+            "bid": 144.272,
+            "ask": 144.287,
             "last": 0.0,
             "volume": 0,
             "spread": 0.01500000000001478
@@ -14073,124 +14069,22 @@
             "currency_profit": "JPY"
           },
           "technical_indicators": {
-            "ema_9": 143.99116037593737,
-            "ema_21": 143.995888707231,
-            "ema_spread": -0.004728331293620158,
-            "rsi_7": 34.03904829724431,
-            "cci_14": -73.50527549822822,
+            "ema_9": 143.9743283007499,
+            "ema_21": 143.98780791566455,
+            "ema_spread": -0.01347961491464389,
+            "rsi_7": 35.16809625723735,
+            "cci_14": -106.86517783290942,
             "vwap": {
-              "current_vwap": 144.06229395355996,
-              "vwap_deviation": -0.16029395355997167,
+              "current_vwap": 144.0587828981349,
+              "vwap_deviation": -0.15178289813488277,
               "price_above_vwap": false,
-              "deviation_percentage": -0.11126711172018693
-            },
-            "micro_trend": {
-              "direction": "BEARISH",
-              "ema_cross_signal": "BEARISH_CROSS",
-              "price_vs_ema9": -0.08916037593738224,
-              "price_vs_ema21": -0.0938887072310024
-            },
-            "scalping_conditions": {
-              "rsi_oversold": false,
-              "rsi_overbought": false,
-              "cci_oversold": false,
-              "cci_overbought": false,
-              "price_above_vwap": false,
-              "micro_trend_bullish": false,
-              "ema_cross_signal": "BEARISH_CROSS"
-            },
-            "scalping_alerts": [
-              "BEARISH_CROSS_CONFIRMED"
-            ],
-            "current_price": 143.902,
-            "current_volume": 293.0
-          },
-          "candles_analyzed": 20734
-        },
-        "AUDUSD": {
-          "symbol": "AUDUSD",
-          "timestamp": "2025-06-04T11:42:03.775040",
-          "timeframe": "M5",
-          "current_tick": {
-            "bid": 0.64824,
-            "ask": 0.64838,
-            "last": 0.0,
-            "volume": 0,
-            "spread": 0.00013999999999991797
-          },
-          "symbol_info": {
-            "digits": 5,
-            "point": 1e-05,
-            "currency_base": "AUD",
-            "currency_profit": "USD"
-          },
-          "technical_indicators": {
-            "ema_9": 0.6468937082900853,
-            "ema_21": 0.6466399851662512,
-            "ema_spread": 0.0002537231238340931,
-            "rsi_7": 78.03591116760548,
-            "cci_14": 133.38403041825129,
-            "vwap": {
-              "current_vwap": 0.646100521551424,
-              "vwap_deviation": 0.0011994784485760412,
-              "price_above_vwap": true,
-              "deviation_percentage": 0.18564889031444207
-            },
-            "micro_trend": {
-              "direction": "BULLISH",
-              "ema_cross_signal": null,
-              "price_vs_ema9": 0.00040629170991468566,
-              "price_vs_ema21": 0.0006600148337487788
-            },
-            "scalping_conditions": {
-              "rsi_oversold": false,
-              "rsi_overbought": false,
-              "cci_oversold": false,
-              "cci_overbought": true,
-              "price_above_vwap": true,
-              "micro_trend_bullish": true,
-              "ema_cross_signal": null
-            },
-            "scalping_alerts": [],
-            "current_price": 0.6473,
-            "current_volume": 169.0
-          },
-          "candles_analyzed": 20736
-        },
-        "USDCAD": {
-          "symbol": "USDCAD",
-          "timestamp": "2025-06-04T11:42:03.863723",
-          "timeframe": "M5",
-          "current_tick": {
-            "bid": 1.3704399999999999,
-            "ask": 1.37057,
-            "last": 0.0,
-            "volume": 0,
-            "spread": 0.00013000000000018552
-          },
-          "symbol_info": {
-            "digits": 5,
-            "point": 1e-05,
-            "currency_base": "USD",
-            "currency_profit": "CAD"
-          },
-          "technical_indicators": {
-            "ema_9": 1.3713392776274087,
-            "ema_21": 1.3715815056344112,
-            "ema_spread": -0.00024222800700246516,
-            "rsi_7": 22.31104814064777,
-            "cci_14": -142.94523032293077,
-            "vwap": {
-              "current_vwap": 1.3720762374623428,
-              "vwap_deviation": -0.0011462374623427696,
-              "price_above_vwap": false,
-              "deviation_percentage": -0.08354036248472152
+              "deviation_percentage": -0.10536178015762472
             },
             "micro_trend": {
               "direction": "BEARISH",
               "ema_cross_signal": null,
-              "price_vs_ema9": -0.00040927762740872176,
-              "price_vs_ema21": -0.0006515056344111869
+              "price_vs_ema9": -0.06732830074989238,
+              "price_vs_ema21": -0.08080791566453627
             },
             "scalping_conditions": {
               "rsi_oversold": false,
@@ -14202,21 +14096,121 @@
               "ema_cross_signal": null
             },
             "scalping_alerts": [],
-            "current_price": 1.37093,
-            "current_volume": 173.0
+            "current_price": 143.907,
+            "current_volume": 302.0
+          },
+          "candles_analyzed": 20734
+        },
+        "AUDUSD": {
+          "symbol": "AUDUSD",
+          "timestamp": "2025-06-04T11:47:06.082203",
+          "timeframe": "M5",
+          "current_tick": {
+            "bid": 0.64855,
+            "ask": 0.64869,
+            "last": 0.0,
+            "volume": 0,
+            "spread": 0.000140000000000029
+          },
+          "symbol_info": {
+            "digits": 5,
+            "point": 1e-05,
+            "currency_base": "AUD",
+            "currency_profit": "USD"
+          },
+          "technical_indicators": {
+            "ema_9": 0.6470009666320682,
+            "ema_21": 0.646711804696592,
+            "ema_spread": 0.00028916193547623426,
+            "rsi_7": 80.78173046565071,
+            "cci_14": 140.7928688716729,
+            "vwap": {
+              "current_vwap": 0.646125827527642,
+              "vwap_deviation": 0.0013041724723579229,
+              "price_above_vwap": true,
+              "deviation_percentage": 0.20184496839388902
+            },
+            "micro_trend": {
+              "direction": "BULLISH",
+              "ema_cross_signal": null,
+              "price_vs_ema9": 0.0004290333679317637,
+              "price_vs_ema21": 0.000718195303407998
+            },
+            "scalping_conditions": {
+              "rsi_oversold": false,
+              "rsi_overbought": true,
+              "cci_oversold": false,
+              "cci_overbought": true,
+              "price_above_vwap": true,
+              "micro_trend_bullish": true,
+              "ema_cross_signal": null
+            },
+            "scalping_alerts": [],
+            "current_price": 0.64743,
+            "current_volume": 176.0
+          },
+          "candles_analyzed": 20736
+        },
+        "USDCAD": {
+          "symbol": "USDCAD",
+          "timestamp": "2025-06-04T11:47:06.178748",
+          "timeframe": "M5",
+          "current_tick": {
+            "bid": 1.37052,
+            "ask": 1.37065,
+            "last": 0.0,
+            "volume": 0,
+            "spread": 0.00012999999999996348
+          },
+          "symbol_info": {
+            "digits": 5,
+            "point": 1e-05,
+            "currency_base": "USD",
+            "currency_profit": "CAD"
+          },
+          "technical_indicators": {
+            "ema_9": 1.3712554221019269,
+            "ema_21": 1.3715213687585557,
+            "ema_spread": -0.0002659466566288238,
+            "rsi_7": 22.068942180517137,
+            "cci_14": -136.76801801796543,
+            "vwap": {
+              "current_vwap": 1.372055958033065,
+              "vwap_deviation": -0.0011359580330649877,
+              "price_above_vwap": false,
+              "deviation_percentage": -0.08279239825564115
+            },
+            "micro_trend": {
+              "direction": "BEARISH",
+              "ema_cross_signal": null,
+              "price_vs_ema9": -0.000335422101926941,
+              "price_vs_ema21": -0.0006013687585557648
+            },
+            "scalping_conditions": {
+              "rsi_oversold": false,
+              "rsi_overbought": false,
+              "cci_oversold": true,
+              "cci_overbought": false,
+              "price_above_vwap": false,
+              "micro_trend_bullish": false,
+              "ema_cross_signal": null
+            },
+            "scalping_alerts": [],
+            "current_price": 1.37092,
+            "current_volume": 188.0
           },
           "candles_analyzed": 20736
         },
         "NZDUSD": {
           "symbol": "NZDUSD",
-          "timestamp": "2025-06-04T11:42:03.961421",
+          "timestamp": "2025-06-04T11:47:06.268035",
           "timeframe": "M5",
           "current_tick": {
-            "bid": 0.60147,
-            "ask": 0.60161,
+            "bid": 0.60162,
+            "ask": 0.60178,
             "last": 0.0,
             "volume": 0,
-            "spread": 0.000140000000000029
+            "spread": 0.00015999999999993797
           },
           "symbol_info": {
             "digits": 5,
@@ -14225,22 +14219,22 @@
             "currency_profit": "USD"
           },
           "technical_indicators": {
-            "ema_9": 0.600719039932855,
-            "ema_21": 0.6005409825558756,
-            "ema_spread": 0.00017805737697940138,
-            "rsi_7": 75.33645257477146,
-            "cci_14": 107.90903602332078,
+            "ema_9": 0.600841231946284,
+            "ema_21": 0.6006127114144324,
+            "ema_spread": 0.00022852053185162813,
+            "rsi_7": 79.84490744639842,
+            "cci_14": 136.99100148892344,
             "vwap": {
-              "current_vwap": 0.6001534340208472,
-              "vwap_deviation": 0.0009665659791527892,
+              "current_vwap": 0.6001803483633497,
+              "vwap_deviation": 0.0011496516366503728,
               "price_above_vwap": true,
-              "deviation_percentage": 0.1610531448061687
+              "deviation_percentage": 0.19155102958392314
             },
             "micro_trend": {
               "direction": "BULLISH",
               "ema_cross_signal": null,
-              "price_vs_ema9": 0.000400960067144962,
-              "price_vs_ema21": 0.0005790174441243634
+              "price_vs_ema9": 0.0004887680537160044,
+              "price_vs_ema21": 0.0007172885855676325
             },
             "scalping_conditions": {
               "rsi_oversold": false,
@@ -14252,8 +14246,8 @@
               "ema_cross_signal": null
             },
             "scalping_alerts": [],
-            "current_price": 0.60112,
-            "current_volume": 171.0
+            "current_price": 0.60133,
+            "current_volume": 162.0
           },
           "candles_analyzed": 20736
         }
