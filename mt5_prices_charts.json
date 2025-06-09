@@ -1,6 +1,6 @@
 {
-  "timestamp": "2025-06-09T04:21:27.950083",
-  "timestamp_unix": 1749442887,
+  "timestamp": "2025-06-09T04:21:30.777000",
+  "timestamp_unix": 1749442890,
   "data_type": "real_time_prices_and_charts",
   "update_interval_seconds": 2,
   "chart_config": {
@@ -16,7 +16,7 @@
   "symbols": {
     "EURUSD": {
       "symbol": "EURUSD",
-      "timestamp": "2025-06-09T04:21:27.950083",
+      "timestamp": "2025-06-09T04:21:30.777000",
       "current_price": {
         "bid": 1.14157,
         "ask": 1.1417,
@@ -459,21 +459,21 @@
       },
       "market_info": {
         "session_open": true,
-        "last_update": "2025-06-09T07:21:25"
+        "last_update": "2025-06-09T07:21:28"
       }
     },
     "GBPUSD": {
       "symbol": "GBPUSD",
-      "timestamp": "2025-06-09T04:21:27.950083",
+      "timestamp": "2025-06-09T04:21:30.777000",
       "current_price": {
         "bid": 1.35535,
-        "ask": 1.35555,
-        "last": 1.35545,
-        "mid": 1.35545
+        "ask": 1.35556,
+        "last": 1.35546,
+        "mid": 1.35546
       },
       "spread": {
-        "raw": 0.0002,
-        "pips": 20.0
+        "raw": 0.00021,
+        "pips": 21.0
       },
       "volume": 0,
       "chart_data": {
@@ -907,21 +907,21 @@
       },
       "market_info": {
         "session_open": true,
-        "last_update": "2025-06-09T07:21:27"
+        "last_update": "2025-06-09T07:21:28"
       }
     },
     "USDJPY": {
       "symbol": "USDJPY",
-      "timestamp": "2025-06-09T04:21:27.950083",
+      "timestamp": "2025-06-09T04:21:30.777000",
       "current_price": {
         "bid": 144.395,
-        "ask": 144.415,
-        "last": 144.405,
-        "mid": 144.405
+        "ask": 144.416,
+        "last": 144.406,
+        "mid": 144.406
       },
       "spread": {
-        "raw": 0.02,
-        "pips": 20.0
+        "raw": 0.021,
+        "pips": 21.0
       },
       "volume": 0,
       "chart_data": {
@@ -1017,7 +1017,7 @@
               "high": 144.417,
               "low": 144.395,
               "close": 144.395,
-              "volume": 54
+              "volume": 56
             }
           ],
           "latest_candle": {
@@ -1027,7 +1027,7 @@
             "high": 144.417,
             "low": 144.395,
             "close": 144.395,
-            "volume": 54
+            "volume": 56
           }
         },
         "M15": {
@@ -1122,7 +1122,7 @@
               "high": 144.449,
               "low": 144.395,
               "close": 144.395,
-              "volume": 181
+              "volume": 183
             }
           ],
           "latest_candle": {
@@ -1132,7 +1132,7 @@
             "high": 144.449,
             "low": 144.395,
             "close": 144.395,
-            "volume": 181
+            "volume": 183
           }
         },
         "H1": {
@@ -1227,7 +1227,7 @@
               "high": 144.487,
               "low": 144.395,
               "close": 144.395,
-              "volume": 675
+              "volume": 677
             }
           ],
           "latest_candle": {
@@ -1237,7 +1237,7 @@
             "high": 144.487,
             "low": 144.395,
             "close": 144.395,
-            "volume": 675
+            "volume": 677
           }
         },
         "H4": {
@@ -1332,7 +1332,7 @@
               "high": 144.93,
               "low": 144.34,
               "close": 144.395,
-              "volume": 10179
+              "volume": 10181
             }
           ],
           "latest_candle": {
@@ -1342,7 +1342,7 @@
             "high": 144.93,
             "low": 144.34,
             "close": 144.395,
-            "volume": 10179
+            "volume": 10181
           }
         }
       },
@@ -1355,21 +1355,21 @@
       },
       "market_info": {
         "session_open": true,
-        "last_update": "2025-06-09T07:21:27"
+        "last_update": "2025-06-09T07:21:30"
       }
     },
     "USDCHF": {
       "symbol": "USDCHF",
-      "timestamp": "2025-06-09T04:21:27.950083",
+      "timestamp": "2025-06-09T04:21:30.777000",
       "current_price": {
-        "bid": 0.82086,
+        "bid": 0.82087,
         "ask": 0.82111,
         "last": 0.82099,
         "mid": 0.82099
       },
       "spread": {
-        "raw": 0.00025,
-        "pips": 25.0
+        "raw": 0.00024,
+        "pips": 24.0
       },
       "volume": 0,
       "chart_data": {
@@ -1464,8 +1464,8 @@
               "open": 0.8209,
               "high": 0.8209,
               "low": 0.82085,
-              "close": 0.82086,
-              "volume": 23
+              "close": 0.82087,
+              "volume": 24
             }
           ],
           "latest_candle": {
@@ -1474,8 +1474,8 @@
             "open": 0.8209,
             "high": 0.8209,
             "low": 0.82085,
-            "close": 0.82086,
-            "volume": 23
+            "close": 0.82087,
+            "volume": 24
           }
         },
         "M15": {
@@ -1569,8 +1569,8 @@
               "open": 0.82098,
               "high": 0.82101,
               "low": 0.82082,
-              "close": 0.82086,
-              "volume": 109
+              "close": 0.82087,
+              "volume": 110
             }
           ],
           "latest_candle": {
@@ -1579,8 +1579,8 @@
             "open": 0.82098,
             "high": 0.82101,
             "low": 0.82082,
-            "close": 0.82086,
-            "volume": 109
+            "close": 0.82087,
+            "volume": 110
           }
         },
         "H1": {
@@ -1674,8 +1674,8 @@
               "open": 0.8211,
               "high": 0.82114,
               "low": 0.82082,
-              "close": 0.82086,
-              "volume": 445
+              "close": 0.82087,
+              "volume": 446
             }
           ],
           "latest_candle": {
@@ -1684,8 +1684,8 @@
             "open": 0.8211,
             "high": 0.82114,
             "low": 0.82082,
-            "close": 0.82086,
-            "volume": 445
+            "close": 0.82087,
+            "volume": 446
           }
         },
         "H4": {
@@ -1779,8 +1779,8 @@
               "open": 0.82239,
               "high": 0.82239,
               "low": 0.8203,
-              "close": 0.82086,
-              "volume": 5727
+              "close": 0.82087,
+              "volume": 5728
             }
           ],
           "latest_candle": {
@@ -1789,8 +1789,8 @@
             "open": 0.82239,
             "high": 0.82239,
             "low": 0.8203,
-            "close": 0.82086,
-            "volume": 5727
+            "close": 0.82087,
+            "volume": 5728
           }
         }
       },
@@ -1803,12 +1803,12 @@
       },
       "market_info": {
         "session_open": true,
-        "last_update": "2025-06-09T07:21:27"
+        "last_update": "2025-06-09T07:21:28"
       }
     },
     "AUDUSD": {
       "symbol": "AUDUSD",
-      "timestamp": "2025-06-09T04:21:27.950083",
+      "timestamp": "2025-06-09T04:21:30.777000",
       "current_price": {
         "bid": 0.65123,
         "ask": 0.65141,
@@ -2256,7 +2256,7 @@
     },
     "USDCAD": {
       "symbol": "USDCAD",
-      "timestamp": "2025-06-09T04:21:27.950083",
+      "timestamp": "2025-06-09T04:21:30.777000",
       "current_price": {
         "bid": 1.36832,
         "ask": 1.36859,
@@ -2361,7 +2361,7 @@
               "high": 1.36834,
               "low": 1.3683100000000001,
               "close": 1.36832,
-              "volume": 29
+              "volume": 31
             }
           ],
           "latest_candle": {
@@ -2371,7 +2371,7 @@
             "high": 1.36834,
             "low": 1.3683100000000001,
             "close": 1.36832,
-            "volume": 29
+            "volume": 31
           }
         },
         "M15": {
@@ -2466,7 +2466,7 @@
               "high": 1.36843,
               "low": 1.3682400000000001,
               "close": 1.36832,
-              "volume": 69
+              "volume": 71
             }
           ],
           "latest_candle": {
@@ -2476,7 +2476,7 @@
             "high": 1.36843,
             "low": 1.3682400000000001,
             "close": 1.36832,
-            "volume": 69
+            "volume": 71
           }
         },
         "H1": {
@@ -2571,7 +2571,7 @@
               "high": 1.36862,
               "low": 1.3682400000000001,
               "close": 1.36832,
-              "volume": 268
+              "volume": 270
             }
           ],
           "latest_candle": {
@@ -2581,7 +2581,7 @@
             "high": 1.36862,
             "low": 1.3682400000000001,
             "close": 1.36832,
-            "volume": 268
+            "volume": 270
           }
         },
         "H4": {
@@ -2676,7 +2676,7 @@
               "high": 1.36911,
               "low": 1.36758,
               "close": 1.36832,
-              "volume": 4417
+              "volume": 4419
             }
           ],
           "latest_candle": {
@@ -2686,7 +2686,7 @@
             "high": 1.36911,
             "low": 1.36758,
             "close": 1.36832,
-            "volume": 4417
+            "volume": 4419
           }
         }
       },
@@ -2699,12 +2699,12 @@
       },
       "market_info": {
         "session_open": true,
-        "last_update": "2025-06-09T07:21:26"
+        "last_update": "2025-06-09T07:21:28"
       }
     },
     "NZDUSD": {
       "symbol": "NZDUSD",
-      "timestamp": "2025-06-09T04:21:27.950083",
+      "timestamp": "2025-06-09T04:21:30.777000",
       "current_price": {
         "bid": 0.60335,
         "ask": 0.60358,
@@ -3152,16 +3152,16 @@
     },
     "EURGBP": {
       "symbol": "EURGBP",
-      "timestamp": "2025-06-09T04:21:27.950083",
+      "timestamp": "2025-06-09T04:21:30.777000",
       "current_price": {
-        "bid": 0.84212,
+        "bid": 0.84213,
         "ask": 0.84237,
-        "last": 0.84224,
-        "mid": 0.84224
+        "last": 0.84225,
+        "mid": 0.84225
       },
       "spread": {
-        "raw": 0.00025,
-        "pips": 25.0
+        "raw": 0.00024,
+        "pips": 24.0
       },
       "volume": 0,
       "chart_data": {
@@ -3254,20 +3254,20 @@
               "time": "2025-06-09T07:20:00",
               "timestamp": 1749453600,
               "open": 0.84212,
-              "high": 0.84212,
+              "high": 0.84213,
               "low": 0.8421,
-              "close": 0.84212,
-              "volume": 25
+              "close": 0.84213,
+              "volume": 26
             }
           ],
           "latest_candle": {
             "time": "2025-06-09T07:20:00",
             "timestamp": 1749453600,
             "open": 0.84212,
-            "high": 0.84212,
+            "high": 0.84213,
             "low": 0.8421,
-            "close": 0.84212,
-            "volume": 25
+            "close": 0.84213,
+            "volume": 26
           }
         },
         "M15": {
@@ -3361,8 +3361,8 @@
               "open": 0.84213,
               "high": 0.84214,
               "low": 0.84208,
-              "close": 0.84212,
-              "volume": 96
+              "close": 0.84213,
+              "volume": 97
             }
           ],
           "latest_candle": {
@@ -3371,8 +3371,8 @@
             "open": 0.84213,
             "high": 0.84214,
             "low": 0.84208,
-            "close": 0.84212,
-            "volume": 96
+            "close": 0.84213,
+            "volume": 97
           }
         },
         "H1": {
@@ -3466,8 +3466,8 @@
               "open": 0.84202,
               "high": 0.84214,
               "low": 0.84198,
-              "close": 0.84212,
-              "volume": 412
+              "close": 0.84213,
+              "volume": 413
             }
           ],
           "latest_candle": {
@@ -3476,8 +3476,8 @@
             "open": 0.84202,
             "high": 0.84214,
             "low": 0.84198,
-            "close": 0.84212,
-            "volume": 412
+            "close": 0.84213,
+            "volume": 413
           }
         },
         "H4": {
@@ -3571,8 +3571,8 @@
               "open": 0.84192,
               "high": 0.84245,
               "low": 0.84179,
-              "close": 0.84212,
-              "volume": 4422
+              "close": 0.84213,
+              "volume": 4423
             }
           ],
           "latest_candle": {
@@ -3581,8 +3581,8 @@
             "open": 0.84192,
             "high": 0.84245,
             "low": 0.84179,
-            "close": 0.84212,
-            "volume": 4422
+            "close": 0.84213,
+            "volume": 4423
           }
         }
       },
@@ -3595,12 +3595,12 @@
       },
       "market_info": {
         "session_open": true,
-        "last_update": "2025-06-09T07:21:25"
+        "last_update": "2025-06-09T07:21:28"
       }
     },
     "EURJPY": {
       "symbol": "EURJPY",
-      "timestamp": "2025-06-09T04:21:27.950083",
+      "timestamp": "2025-06-09T04:21:30.777000",
       "current_price": {
         "bid": 164.849,
         "ask": 164.869,
@@ -4048,16 +4048,16 @@
     },
     "GBPJPY": {
       "symbol": "GBPJPY",
-      "timestamp": "2025-06-09T04:21:27.950083",
+      "timestamp": "2025-06-09T04:21:30.777000",
       "current_price": {
         "bid": 195.716,
-        "ask": 195.753,
-        "last": 195.734,
-        "mid": 195.734
+        "ask": 195.754,
+        "last": 195.735,
+        "mid": 195.735
       },
       "spread": {
-        "raw": 0.037,
-        "pips": 37.0
+        "raw": 0.038,
+        "pips": 38.0
       },
       "volume": 0,
       "chart_data": {
@@ -4153,7 +4153,7 @@
               "high": 195.746,
               "low": 195.714,
               "close": 195.716,
-              "volume": 61
+              "volume": 68
             }
           ],
           "latest_candle": {
@@ -4163,7 +4163,7 @@
             "high": 195.746,
             "low": 195.714,
             "close": 195.716,
-            "volume": 61
+            "volume": 68
           }
         },
         "M15": {
@@ -4258,7 +4258,7 @@
               "high": 195.761,
               "low": 195.714,
               "close": 195.716,
-              "volume": 264
+              "volume": 271
             }
           ],
           "latest_candle": {
@@ -4268,7 +4268,7 @@
             "high": 195.761,
             "low": 195.714,
             "close": 195.716,
-            "volume": 264
+            "volume": 271
           }
         },
         "H1": {
@@ -4363,7 +4363,7 @@
               "high": 195.798,
               "low": 195.714,
               "close": 195.716,
-              "volume": 1165
+              "volume": 1172
             }
           ],
           "latest_candle": {
@@ -4373,7 +4373,7 @@
             "high": 195.798,
             "low": 195.714,
             "close": 195.716,
-            "volume": 1165
+            "volume": 1172
           }
         },
         "H4": {
@@ -4468,7 +4468,7 @@
               "high": 196.136,
               "low": 195.714,
               "close": 195.716,
-              "volume": 16498
+              "volume": 16505
             }
           ],
           "latest_candle": {
@@ -4478,7 +4478,7 @@
             "high": 196.136,
             "low": 195.714,
             "close": 195.716,
-            "volume": 16498
+            "volume": 16505
           }
         }
       },
@@ -4491,17 +4491,17 @@
       },
       "market_info": {
         "session_open": true,
-        "last_update": "2025-06-09T07:21:27"
+        "last_update": "2025-06-09T07:21:30"
       }
     },
     "XAUUSD": {
       "symbol": "XAUUSD",
-      "timestamp": "2025-06-09T04:21:27.950083",
+      "timestamp": "2025-06-09T04:21:30.777000",
       "current_price": {
-        "bid": 3311.55,
-        "ask": 3311.72,
-        "last": 3311.64,
-        "mid": 3311.64
+        "bid": 3311.58,
+        "ask": 3311.75,
+        "last": 3311.66,
+        "mid": 3311.66
       },
       "spread": {
         "raw": 0.17,
@@ -4598,20 +4598,20 @@
               "time": "2025-06-09T07:20:00",
               "timestamp": 1749453600,
               "open": 3311.16,
-              "high": 3311.55,
+              "high": 3311.58,
               "low": 3310.94,
-              "close": 3311.55,
-              "volume": 51
+              "close": 3311.58,
+              "volume": 54
             }
           ],
           "latest_candle": {
             "time": "2025-06-09T07:20:00",
             "timestamp": 1749453600,
             "open": 3311.16,
-            "high": 3311.55,
+            "high": 3311.58,
             "low": 3310.94,
-            "close": 3311.55,
-            "volume": 51
+            "close": 3311.58,
+            "volume": 54
           }
         },
         "M15": {
@@ -4705,8 +4705,8 @@
               "open": 3310.83,
               "high": 3312.25,
               "low": 3310.56,
-              "close": 3311.55,
-              "volume": 274
+              "close": 3311.58,
+              "volume": 277
             }
           ],
           "latest_candle": {
@@ -4715,8 +4715,8 @@
             "open": 3310.83,
             "high": 3312.25,
             "low": 3310.56,
-            "close": 3311.55,
-            "volume": 274
+            "close": 3311.58,
+            "volume": 277
           }
         },
         "H1": {
@@ -4810,8 +4810,8 @@
               "open": 3310.91,
               "high": 3312.25,
               "low": 3309.29,
-              "close": 3311.55,
-              "volume": 1062
+              "close": 3311.58,
+              "volume": 1065
             }
           ],
           "latest_candle": {
@@ -4820,8 +4820,8 @@
             "open": 3310.91,
             "high": 3312.25,
             "low": 3309.29,
-            "close": 3311.55,
-            "volume": 1062
+            "close": 3311.58,
+            "volume": 1065
           }
         },
         "H4": {
@@ -4915,8 +4915,8 @@
               "open": 3305.59,
               "high": 3312.25,
               "low": 3293.61,
-              "close": 3311.55,
-              "volume": 14101
+              "close": 3311.58,
+              "volume": 14104
             }
           ],
           "latest_candle": {
@@ -4925,8 +4925,8 @@
             "open": 3305.59,
             "high": 3312.25,
             "low": 3293.61,
-            "close": 3311.55,
-            "volume": 14101
+            "close": 3311.58,
+            "volume": 14104
           }
         }
       },
@@ -4939,12 +4939,12 @@
       },
       "market_info": {
         "session_open": true,
-        "last_update": "2025-06-09T07:21:27"
+        "last_update": "2025-06-09T07:21:30"
       }
     },
     "US30": {
       "symbol": "US30",
-      "timestamp": "2025-06-09T04:21:27.950083",
+      "timestamp": "2025-06-09T04:21:30.777000",
       "current_price": {
         "bid": 42681.5,
         "ask": 42682.6,
@@ -5392,7 +5392,7 @@
     },
     "SP500m": {
       "symbol": "SP500m",
-      "timestamp": "2025-06-09T04:21:27.950083",
+      "timestamp": "2025-06-09T04:21:30.777000",
       "current_price": {
         "bid": 3936.7,
         "ask": 3937.4,
